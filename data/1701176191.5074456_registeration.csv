@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="BfWLdC9pMiQn7BmYrzuhhVf52pS6sLOYgayw4EBp">
+
+    <title></title>
+
+    <!-- Scripts -->
+    <script src="http://ec2-54-147-218-160.compute-1.amazonaws.com:8181/js/app.js" defer></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js" defer></script>
+
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,600" rel="stylesheet" type="text/css">
+
+    <!-- Styles -->
+    <link href="http://ec2-54-147-218-160.compute-1.amazonaws.com:8181/css/app.css" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
+            <div class="container">
+                <a class="navbar-brand" href="http://ec2-54-147-218-160.compute-1.amazonaws.com:8181">
+                    ebx
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <!-- Left Side Of Navbar -->
+                    <ul class="navbar-nav mr-auto">
+
+							
+                            
+
+                                                        <!-- <li class="nav-item"><a class="text-dark nav-link small" href="#">reglog</a></li> -->
+                            <!-- <li class="nav-item"><a class="text-dark nav-link small" href="#">reports</a></li> -->
+                                                </ul>
+
+                    <!-- Right Side Of Navbar -->
+                    <ul class="navbar-nav ml-auto">
+                        <!-- Authentication Links -->
+                                                    <li class="nav-item">
+                                <a class="nav-link" href="http://ec2-54-147-218-160.compute-1.amazonaws.com:8181/login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="http://ec2-54-147-218-160.compute-1.amazonaws.com:8181/register">Register</a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </nav>
+
+        <main class="py-4">
+            <div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">Login</div>
+
+                <div class="card-body">
+                    <form method="POST" action="http://ec2-54-147-218-160.compute-1.amazonaws.com:8181/login" aria-label="Login">
+                        <input type="hidden" name="_token" value="BfWLdC9pMiQn7BmYrzuhhVf52pS6sLOYgayw4EBp">
+                        <div class="form-group row">
+                            <label for="email" class="col-sm-4 col-form-label text-md-right">Username</label>
+
+                            <div class="col-md-6">
+                                <input id="email" type="text" class="form-control" name="name" value="" required autofocus>
+
+                                                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="password" class="col-md-4 col-form-label text-md-right">Password</label>
+
+                            <div class="col-md-6">
+                                <input id="password" type="password" class="form-control" name="password" required>
+
+                                                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <div class="col-md-6 offset-md-4">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" name="remember" id="remember" >
+
+                                    <label class="form-check-label" for="remember">
+                                        Remember Me
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group row mb-0">
+                            <div class="col-md-8 offset-md-4">
+                                <button id="logbtn" type="submit" class="btn btn-primary">
+                                    Login
+                                </button>
+
+                                <a class="btn btn-link" href="http://ec2-54-147-218-160.compute-1.amazonaws.com:8181/password/reset">
+                                    Forgot Your Password?
+                                </a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </main>
+    </div>
+</body>
+</html>

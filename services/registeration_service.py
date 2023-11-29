@@ -5,17 +5,24 @@ domain = "http://ec2-54-147-218-160.compute-1.amazonaws.com:8181"
 end_point = "/get_registertions/csv"
 
 class RegisterationService :
+    _localFilePath = None
+    def __init__(self):
+        self.getDataFromRegisterationSite()
 
-    def get_Data(self):
+    def getDataFromRegisterationSite(self):
+        print(f"Calling Endpoint : {domain+end_point}")
         response = requests.get(domain+end_point)
-        print(domain+end_point)
+        res = None
         if response.status_code == 200:
-            local_file_path = f"./data/{get_date_time_str()}_registeration.csv"
-            print(local_file_path)
-
-            with open(local_file_path, 'wb') as file:
+            _localFilePath = f"./data/{get_date_time_str()}_registeration.csv"
+            with open(_localFilePath, 'wb') as file:
                 file.write(response.content)
-
-            print(f"CSV file downloaded successfully to: {local_file_path}")
+            print(f"CSV file downloaded successfully to: {_localFilePath}")
+            res = True
         else:
             print(f"Failed to download CSV file. Status code: {response.status_code}")
+            res = False
+        return res
+
+    def convertRowDataToModel(self):
+        pass

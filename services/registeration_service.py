@@ -39,9 +39,6 @@ class RegisterationService :
                 registerationCount += 1
                 code = row['subject_code']
                 id = row['student_id']
-
-                #if the subject key wasn't created before,
-                #create a new one with an empty list
                 try:
                     type(self.__registeration.subjectsStudentsLists[code])
                 except:
@@ -57,3 +54,7 @@ class RegisterationService :
 
     def getModel(self):
         return self.__registeration
+    
+    def get_first_two_names(self,full_name):
+        names = full_name.split()
+        return ' '.join(names[:2])

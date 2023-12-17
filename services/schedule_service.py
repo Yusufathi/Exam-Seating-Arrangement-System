@@ -18,7 +18,7 @@ class ScheduleService:
         with open(self.__localFilePath, 'r', encoding='utf-8-sig') as csv_file:
             csv_reader = csv.DictReader(csv_file)
             for row in csv_reader:
-                day = row['Date']+"_"+row['Day'].replace(" ", "")
+                day = (row['Date']+"_"+row['Day']).replace(" ", "")
                 time = row['Time'].replace(" ", "")
                 row_data = {
                     'Date': row['Date'],

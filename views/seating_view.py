@@ -2,16 +2,17 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.platypus import SimpleDocTemplate, Table, Paragraph
 from reportlab.lib.styles import getSampleStyleSheet
-
+import os
+from services.time_services import get_date_time_str
 
 class SeatingView:
 
     def __init__(self):
-        pdf_output = './outputs/output.pdf'
 
         courseName = "Fundamentals of Programming II"
         courseCode = "CSC201"
-        examDate = "10:30-Monday-12/17/23"
+        examDate = "Monday-12/17/23"
+        examTime = "10:30"
         examRoom = "G2-4011"
 
         studentList = [
@@ -34,11 +35,21 @@ class SeatingView:
             [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
         ]
 
+
+        pdf_file_name = f'{examRoom}.pdf'
+        output_directory = f'./outputs/{courseName}'
+        pdf_output = os.path.join(output_directory, pdf_file_name)
+
+        if not os.path.exists(output_directory):
+            os.makedirs(output_directory)
+        
+
+        
         self.generate_pdf(pdf_output, courseName, courseCode,
-                          examDate, examRoom, studentList)
+                          examDate, examTime,examRoom, studentList)
         print(f"PDF generated: {pdf_output}")
 
-    def generate_pdf(self, output_file, courseName, courseCode, examDate, examRoom, studentList):
+    def generate_pdf(self, output_file, courseName, courseCode, examDate,examTime, examRoom, studentList):
         left_margin = 36
         right_margin = 36
         top_margin = 36
@@ -64,7 +75,7 @@ class SeatingView:
         content.append(courseCodeParagraph)
 
         courseDateParagraph = Paragraph(
-            "Exam Date: "+examDate, styles['Heading4'])
+            "Exam Date: "+examTime+"_"+examDate, styles['Heading4'])
         content.append(courseDateParagraph)
 
         courseRoomParagraph = Paragraph(
@@ -88,6 +99,10 @@ class SeatingView:
         absParagraph = Paragraph(
             "Abs. : ", styles['Heading4'])
         content.append(absParagraph)
+
+        totalParagraph = Paragraph(
+            "Total : ", styles['Heading4'])
+        content.append(totalParagraph)
 
         proctorsParagraph = Paragraph(
             "Proctors : ", styles['Heading4'])

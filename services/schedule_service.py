@@ -21,17 +21,18 @@ class ScheduleService:
                 day = (row['Date']+"_"+row['Day']).replace(" ", "")
                 time = row['Time'].replace(" ", "")
                 row_data = {
+                    'Room(s)': row['Room(s)'],
                     'Date': row['Date'],
-                    'Level': row['Level'],
+                    'Day': row['Day'],
+                    #'Level': row['Level'],
                     'Course Code': row['Course Code'],
                     'Course Name': row['Course Name'],
-                    'Instructor': row['Instructor'],
-                    'No. of Students': int(row['No. of Students']),
-                    'Required No. of Proctors': int(row['Required No. of Proctors']),
-                    'Room(s)': row['Room(s)'],
-                    'No. of Students/ Room': int(row['No. of Students/ Room']),
-                    'No. of proctors / Room': int(row['No. of proctors / Room']),
-                    'Proctor(s)': row['Proctor(s)']
+                    #'Instructor': row['Instructor'],
+                    # 'No. of Students': int(row['No. of Students']),
+                    #'Required No. of Proctors': int(row['Required No. of Proctors']),
+                    # 'No. of Students/ Room': int(row['No. of Students/ Room']),
+                    #'No. of proctors / Room': int(row['No. of proctors / Room']),
+                    #'Proctor(s)': row['Proctor(s)']
                 }
                 structured_data[day][time].append(row_data)
 

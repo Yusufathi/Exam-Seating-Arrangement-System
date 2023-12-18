@@ -3,11 +3,11 @@ from reportlab.lib import colors
 from reportlab.platypus import SimpleDocTemplate, Table, Paragraph
 from reportlab.lib.styles import getSampleStyleSheet
 import os
-from services.time_services import get_date_time_str
+from services.time_services import get_date_time_str,getDate
 
 class SeatingView:
 
-    def __init__(self):
+    def __init__(self,courseName,courseCode,examDate,examTime,examRoom):
 
         courseName = "Fundamentals of Programming II"
         courseCode = "CSC201"
@@ -37,7 +37,7 @@ class SeatingView:
 
 
         pdf_file_name = f'{examRoom}.pdf'
-        output_directory = f'./outputs/{courseName}'
+        output_directory = f'./outputs/{getDate()}/{courseName}'
         pdf_output = os.path.join(output_directory, pdf_file_name)
 
         if not os.path.exists(output_directory):

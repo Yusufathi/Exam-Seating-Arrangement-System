@@ -1,0 +1,2180 @@
+﻿{
+  "9-Jan-23_Tuesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1310",
+        "Date": "9-Jan-23",
+        "Course Code": "CSC401",
+        "Course Name": "Formal Language and Automata"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "9-Jan-23",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "9-Jan-23",
+        "Course Code": "AIN408",
+        "Course Name": "Selected Topics in Artificial Intelligence"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "9-Jan-23",
+        "Course Code": "AIN408",
+        "Course Name": "Selected Topics in Artificial Intelligence"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "9-Jan-23",
+        "Course Code": "CSC303 ",
+        "Course Name": "Introduction to Artificial Intelligence"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1208",
+        "Date": "9-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II "
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "9-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "9-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "9-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "9-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II "
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "9-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "9-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II "
+      }
+    ]
+  },
+  "10-Jan-23_Wednesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "10-Jan-23",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II  "
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "10-Jan-23",
+        "Course Code": "CNE403",
+        "Course Name": "Cloud Computing "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "10-Jan-23",
+        "Course Code": "UNI102",
+        "Course Name": "Presentation and Communication Skills"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "10-Jan-23",
+        "Course Code": "CSC207",
+        "Course Name": "Event-Driven and reactive Programming"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "10-Jan-23",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "10-Jan-23",
+        "Course Code": "SWE304",
+        "Course Name": "Practical Applications in Software Engineering I"
+      }
+    ]
+  },
+  "11-Jan-23_Thursday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Course Code": "SWE411",
+        "Course Name": "Data Warehousing and Data Integration"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Course Code": "CNE401",
+        "Course Name": "Communications Technology I"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Course Code": "CNE201",
+        "Course Name": "Electric Circuits"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Course Code": "CNE101",
+        "Course Name": "Electronics"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC409",
+        "Course Name": "Machine Learning"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "11-Jan-23",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "11-Jan-23",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "11-Jan-23",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "11-Jan-23",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "11-Jan-23",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System "
+      }
+    ]
+  },
+  "13-Jan-23_Saturday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "13-Jan-23",
+        "Course Code": "PH101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "13-Jan-23",
+        "Course Code": "PHY101",
+        "Course Name": "Physics"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "13-Jan-23",
+        "Course Code": "PHY101",
+        "Course Name": "Physics"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE301",
+        "Course Name": " Database I "
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE401",
+        "Course Name": "Database II"
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "13-Jan-23",
+        "Course Code": "SWE402",
+        "Course Name": "Database II"
+      }
+    ]
+  },
+  "14-Jan-23_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "G2-4011",
+        "Date": "14-Jan-23",
+        "Course Code": "SWE404",
+        "Course Name": "Requirments Engineering"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "14-Jan-23",
+        "Course Code": "SWE404",
+        "Course Name": "Requirments Engineering"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "14-Jan-23",
+        "Course Code": "SWE404",
+        "Course Name": "Requirments Engineering"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "14-Jan-23",
+        "Course Code": "SWE404",
+        "Course Name": "Requirments Engineering"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "14-Jan-23",
+        "Course Code": "SWE404",
+        "Course Name": "Requirments Engineering"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "14-Jan-23",
+        "Course Code": "SWE404",
+        "Course Name": "Requirments Engineering"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE409",
+        "Course Name": "Embedded Systems Design "
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "14-Jan-23",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design "
+      }
+    ]
+  },
+  "15-Jan-23_Monday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "15-Jan-23",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "15-Jan-23",
+        "Course Code": "UNI101",
+        "Course Name": "Critical Thinking"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "15-Jan-23",
+        "Course Code": "UNI101",
+        "Course Name": "Critical Thinking"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "15-Jan-23",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization and Architecture"
+      }
+    ]
+  },
+  "16-Jan-23_Tuesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "G2-4011",
+        "Date": "16-Jan-23",
+        "Course Code": "MAT203",
+        "Course Name": "Probability & Statistics"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC302",
+        "Course Name": "Computer Graphics"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "16-Jan-23",
+        "Course Code": "CNE409",
+        "Course Name": "Internetworking"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "16-Jan-23",
+        "Course Code": "CNE408",
+        "Course Name": "Selected Topics in Computer Networks "
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "16-Jan-23",
+        "Course Code": "CSC206",
+        "Course Name": "Software and System Tools "
+      }
+    ]
+  },
+  "17-Jan-23_Wednesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "17-Jan-23",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "17-Jan-23",
+        "Course Code": "CSC101",
+        "Course Name": "Introduction to Computer Science "
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "17-Jan-23",
+        "Course Code": "CSC101",
+        "Course Name": "Introduction to Computer Science "
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "17-Jan-23",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I "
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "17-Jan-23",
+        "Course Code": "SWE408",
+        "Course Name": "Software Project Management"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "17-Jan-23",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management"
+      }
+    ]
+  },
+  "18-Jan-23_Thursday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "18-Jan-23",
+        "Course Code": "AIN412",
+        "Course Name": "Image and Speech Processing"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "18-Jan-23",
+        "Course Code": "AIN412",
+        "Course Name": "Image and Speech Processing"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC403",
+        "Course Name": " Speech and Image Processing"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "18-Jan-23",
+        "Course Code": "SWE405",
+        "Course Name": "Software Quality Assurance"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "18-Jan-23",
+        "Course Code": "SWE405",
+        "Course Name": "Software Quality Assurance"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "18-Jan-23",
+        "Course Code": "SWE405",
+        "Course Name": "Software Quality Assurance"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "18-Jan-23",
+        "Course Code": "SWE405",
+        "Course Name": "Software Quality Assurance"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "18-Jan-23",
+        "Course Code": "SWE405",
+        "Course Name": "Software Quality Assurance"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "18-Jan-23",
+        "Course Code": "SWE405",
+        "Course Name": "Software Quality Assurance"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "18-Jan-23",
+        "Course Code": "CSC201",
+        "Course Name": "Fundamentals of Programming II "
+      }
+    ]
+  },
+  "20-Jan-23_Saturday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "20-Jan-23",
+        "Course Code": "CS102",
+        "Course Name": "Structured Programming"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC102",
+        "Course Name": "Fundamentals of Programming I"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC102",
+        "Course Name": "Fundamentals of Programming I"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "20-Jan-23",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web"
+      }
+    ]
+  },
+  "21-Jan-23_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1225",
+        "Date": "21-Jan-23",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "21-Jan-23",
+        "Course Code": "CNE406",
+        "Course Name": "Distributed Systems"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "21-Jan-23",
+        "Course Code": "CNE402",
+        "Course Name": "Parallel and Distributed Systems"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "21-Jan-23",
+        "Course Code": "AIN403",
+        "Course Name": "Natural and Formal Languages Processing"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "21-Jan-23",
+        "Course Code": "AIN403",
+        "Course Name": "Natural and Formal Languages Processing"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "21-Jan-23",
+        "Course Code": "CNE404",
+        "Course Name": "Networked Applications "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "21-Jan-23",
+        "Course Code": "CNE404",
+        "Course Name": "Networked Applications "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "21-Jan-23",
+        "Course Code": "SWE406",
+        "Course Name": "Software Testing "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "21-Jan-23",
+        "Course Code": "SWE406",
+        "Course Name": "Software Testing "
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "21-Jan-23",
+        "Course Code": "SWE406",
+        "Course Name": "Software Testing "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "21-Jan-23",
+        "Course Code": "SWE406",
+        "Course Name": "Software Testing "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "21-Jan-23",
+        "Course Code": "SWE406",
+        "Course Name": "Software Testing "
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "21-Jan-23",
+        "Course Code": "SWE406",
+        "Course Name": "Software Testing "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "21-Jan-23",
+        "Course Code": "SWE406",
+        "Course Name": "Software Testing "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "21-Jan-23",
+        "Course Code": "CSC408",
+        "Course Name": "Selected Topics in Computer Science"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "21-Jan-23",
+        "Course Code": "CSC408",
+        "Course Name": "Selected Topics in Computer Science"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "21-Jan-23",
+        "Course Code": "CSC408",
+        "Course Name": "Selected Topics in Computer Science"
+      }
+    ]
+  },
+  "22-Jan-23_Monday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages"
+      },
+      {
+        "Room(s)": "1108",
+        "Date": "22-Jan-23",
+        "Course Code": "AIN414",
+        "Course Name": "Virtual Reality"
+      },
+      {
+        "Room(s)": "1108",
+        "Date": "22-Jan-23",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design"
+      },
+      {
+        "Room(s)": "1108",
+        "Date": "22-Jan-23",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling & Analysis"
+      },
+      {
+        "Room(s)": "1108",
+        "Date": "22-Jan-23",
+        "Course Code": "CNE404",
+        "Course Name": "Computer Systems Modeling & Analysis"
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "22-Jan-23",
+        "Course Code": "MATH2AC",
+        "Course Name": "Math II (Algebra & Calculus)"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "22-Jan-23",
+        "Course Code": "CSC203",
+        "Course Name": "Data Structure "
+      }
+    ]
+  },
+  "23-Jan-23_Tuesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1310",
+        "Date": "23-Jan-23",
+        "Course Code": "MAT103",
+        "Course Name": "Discrete Mathematics"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "23-Jan-23",
+        "Course Code": "CNE301",
+        "Course Name": "Data Communications"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "23-Jan-23",
+        "Course Code": "CSC404",
+        "Course Name": "Human Computer Interaction"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "23-Jan-23",
+        "Course Code": "AIN404 ",
+        "Course Name": "Data Mining and Knowledge Discovery"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "23-Jan-23",
+        "Course Code": "AIN404 ",
+        "Course Name": "Data Mining and Knowledge Discovery"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "23-Jan-23",
+        "Course Code": "CNE401",
+        "Course Name": "Computer Networks II"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "23-Jan-23",
+        "Course Code": "CNE401",
+        "Course Name": "Computer Networks II"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE303",
+        "Course Name": "Software Engineering I "
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "23-Jan-23",
+        "Course Code": "SWE403",
+        "Course Name": "Object Oriented Software Developmen"
+      }
+    ]
+  },
+  "24-Jan-23_Wednesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "24-Jan-23",
+        "Course Code": "MT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "24-Jan-23",
+        "Course Code": "MAT101",
+        "Course Name": "Linear Algebra I"
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "24-Jan-23",
+        "Course Code": "MAT101",
+        "Course Name": "Linear Algebra I"
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "24-Jan-23",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamental of Management"
+      }
+    ]
+  }
+}

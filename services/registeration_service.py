@@ -14,6 +14,7 @@ class RegisterationService :
         self.getDataFromRegisterationSite()
         self.__registeration = RegisterationModel()
         self.convertCSVToModel()
+        self.__registeration.createJsonFile()
 
     def getDataFromRegisterationSite(self):
         print(f"Calling Endpoint : {domain+end_point}")
@@ -32,12 +33,13 @@ class RegisterationService :
 
     def convertCSVToModel(self):
         registerationCount = 1
-        with open(self.__localFilePath, 'r') as file:
+        with open(self.__localFilePath, 'r',encoding="utf8") as file:
             csv_reader = csv.DictReader(file)
             
             for row in csv_reader:
                 registerationCount += 1
                 code = row['subject_code']
+                name = self.get_first_three_names(row['student_name'])
                 id = row['student_id']
                 try:
                     type(self.__registeration.subjectsStudentsLists[code])
@@ -45,7 +47,7 @@ class RegisterationService :
                     self.__registeration.subjectsStudentsLists[code] = []
 
                 
-                self.__registeration.subjectsStudentsLists[code].append(id)
+                self.__registeration.subjectsStudentsLists[code].append((id,name))
                 
         self.__registeration.totalRegisterationCount = registerationCount
         self.__registeration.subjectsCount = len(self.__registeration.subjectsStudentsLists)
@@ -55,6 +57,6 @@ class RegisterationService :
     def getModel(self):
         return self.__registeration
     
-    def get_first_two_names(self,full_name):
+    def get_first_three_names(self,full_name):
         names = full_name.split()
-        return ' '.join(names[:2])
+        return ' '.join(names[:3])

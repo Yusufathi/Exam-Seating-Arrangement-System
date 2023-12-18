@@ -28,9 +28,9 @@ class ScheduleService:
                     'Course Code': row['Course Code'],
                     'Course Name': row['Course Name'],
                     #'Instructor': row['Instructor'],
-                    # 'No. of Students': int(row['No. of Students']),
+                    'No. of Students': min(int(row['No. of Students']),int(row['No. of Students/ Room'])),
                     #'Required No. of Proctors': int(row['Required No. of Proctors']),
-                    # 'No. of Students/ Room': int(row['No. of Students/ Room']),
+                    #'No. of Students/ Room': int(row['No. of Students/ Room']),
                     #'No. of proctors / Room': int(row['No. of proctors / Room']),
                     #'Proctor(s)': row['Proctor(s)']
                 }

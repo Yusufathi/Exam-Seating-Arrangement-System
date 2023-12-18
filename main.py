@@ -15,16 +15,20 @@ if __name__ == "__main__":
                 examRoom = exam['Room(s)']
                 courseName = exam['Course Name']
                 courseCode = exam['Course Code']
+                noOfStudents = exam['No. of Students']
                 examDate = date.split("_")[0]
                 examDay = date.split("_")[1]
                 examTime = time
                 print(f"    Room(s): {examRoom}")
+                print(f"    No. Of Students: {noOfStudents}")
                 print(f"    Course Name: {courseName}")
                 print(f"    Course Code: {courseCode}")
                 print(f"    Exam Date: {examDate}")
                 print(f"    Exam Day: {examDay}")
                 print(f"    Exam Time: {examTime}")
                 print("==========================================")
+                
+               
 
         
     

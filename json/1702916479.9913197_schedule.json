@@ -1,0 +1,104 @@
+﻿{
+  "9-Jan-23_Tuesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1310",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "CSC401",
+        "Course Name": "Formal Language and Automata",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "AIN408",
+        "Course Name": "Selected Topics in Artificial Intelligence",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "AIN408",
+        "Course Name": "Selected Topics in Artificial Intelligence",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "CSC303 ",
+        "Course Name": "Introduction to Artificial Intelligence",
+        "No. of Students": 19
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1208",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II ",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II ",
+        "No. of Students": 12
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "9-Jan-23",
+        "Day": "Tuesday",
+        "Course Code": "SWE401",
+        "Course Name": "Software Engineering II ",
+        "No. of Students": 16
+      }
+    ]
+  }
+}

@@ -7,39 +7,38 @@ from services.time_services import get_date_time_str,getDate
 
 class SeatingView:
 
-    def __init__(self,courseName,courseCode,examDate,examTime,examRoom):
+    def __init__(self,courseName,courseCode,examDate,examTime,examRoom,studentList):
 
-        courseName = "Fundamentals of Programming II"
-        courseCode = "CSC201"
-        examDate = "Monday-12/17/23"
-        examTime = "10:30"
-        examRoom = "G2-4011"
+        # courseName = "Fundamentals of Programming II"
+        # courseCode = "CSC201"
+        # examDate = "Monday-12/17/23"
+        # examTime = "10:30"
+        # examRoom = "G2-4011"
 
-        studentList = [
-            ['Seating#', 'ID', 'Name', 'Signature'],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-            [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        ]
+        # studentList = [
+        #     ['Seating#', 'ID', 'Name', 'Signature'],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
+        # ]
 
 
         pdf_file_name = f'{examRoom}.pdf'
         output_directory = f'./outputs/{getDate()}/{courseName}'
         pdf_output = os.path.join(output_directory, pdf_file_name)
-
         if not os.path.exists(output_directory):
             os.makedirs(output_directory)
         

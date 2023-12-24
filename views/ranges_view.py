@@ -8,25 +8,11 @@ from services.time_services import get_date_time_str, getDate
 
 class RangesView:
 
-    def __init__(self):
-        courseName = "Fundamentals of Programming II"
-        courseCode = "CSC201"
-        roomsAndRanges = [
-            ['index#', 'Room', 'Start ID', 'End ID', 'Capacity'],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40],
-            [1, 'Hall 8-4238', 42020005, 42020008, 40]
-        ]
-        pdf_file_name = f'ranges.pdf'
-        output_directory = f'./outputs/'
-        pdf_output = os.path.join(output_directory, pdf_file_name)
+    def __init__(self, courseName, courseCode, roomsAndRanges):
 
+        pdf_file_name = f'ranges.pdf'
+        output_directory = f'./outputs/{getDate()}/{courseName}'
+        pdf_output = os.path.join(output_directory, pdf_file_name)
         if not os.path.exists(output_directory):
             os.makedirs(output_directory)
 
@@ -68,3 +54,19 @@ class RangesView:
         content.append(Paragraph("<br/><br/>", styles['Normal']))
 
         pdf.build(content)
+
+
+# courseName = "Fundamentals of Programming II"
+        # courseCode = "CSC201"
+        # roomsAndRanges = [
+        #     ['index#', 'Room', 'Start ID', 'End ID', 'Capacity'],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40],
+        #     [1, 'Hall 8-4238', 42020005, 42020008, 40]
+        # ]

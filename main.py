@@ -3,6 +3,7 @@ from services.schedule_service import ScheduleService
 from views.seating_view import SeatingView
 from views.ranges_view import RangesView
 import json
+from services.time_services import get_date_time_str, getDate
 registerationObj = {}
 rangesObj = {}
 
@@ -62,7 +63,7 @@ def addExamRange(courseName, courseCode, roomRecord):
 
 
 def iterateOverScheduleAndGenerateExamList():
-    inputScheduleCSVPath = '.\input\input_after_preproccessing - backup.csv'
+    inputScheduleCSVPath = '.\input\input_final_fall.csv'
     scheduleService = ScheduleService(inputFilePath=inputScheduleCSVPath)
     schedule = scheduleService.getModel().scheduleObj
     daysCount = len(schedule.items())
@@ -86,3 +87,8 @@ if __name__ == "__main__":
     registerationObj = reService.getModel().subjectsStudentsLists
     iterateOverScheduleAndGenerateExamList()
     buildExamRanges()
+    left_registerations_path = f'./outputs/{getDate()}/left.json'
+    with open(f'./outputs/{getDate()}/left.json', 'w') as file:
+        json.dump(registerationObj, file, indent=2)
+        print(
+            f"The Registerations that wasn't made is written in the {left_registerations_path} file.\nIt might be due to the wrong course codes, The courses codes in the registeration isn't synced with what is in the schedule.")

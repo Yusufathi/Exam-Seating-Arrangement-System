@@ -11,7 +11,7 @@ class RangesView:
     def __init__(self, courseName, courseCode, roomsAndRanges):
 
         pdf_file_name = f'ranges.pdf'
-        output_directory = f'./outputs/{getDate()}/{courseName}'
+        output_directory = f'./outputs/{getDate()}//{courseName}_{courseCode}'
         pdf_output = os.path.join(output_directory, pdf_file_name)
         if not os.path.exists(output_directory):
             os.makedirs(output_directory)

@@ -63,7 +63,7 @@ def addExamRange(courseName, courseCode, roomRecord):
 
 
 def iterateOverScheduleAndGenerateExamList():
-    inputScheduleCSVPath = '.\input\input_final_fall.csv'
+    inputScheduleCSVPath = '.\input\input_final_sheddule_isa_fall23.csv'
     scheduleService = ScheduleService(inputFilePath=inputScheduleCSVPath)
     schedule = scheduleService.getModel().scheduleObj
     daysCount = len(schedule.items())

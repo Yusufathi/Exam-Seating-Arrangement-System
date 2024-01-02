@@ -10,32 +10,6 @@ class SeatingView:
 
     def __init__(self, courseName, courseCode, examDate, examTime, examRoom, studentList):
 
-        # courseName = "Fundamentals of Programming II"
-        # courseCode = "CSC201"
-        # examDate = "Monday-12/17/23"
-        # examTime = "10:30"
-        # examRoom = "G2-4011"
-
-        # studentList = [
-        #     ['Seating#', 'ID', 'Name', 'Signature'],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        #     [1, 41710155, 'Yusuf Fathi Mohammed', "             "],
-        # ]
-
         pdf_file_name = f'{examRoom}.pdf'
         output_directory = f'./outputs/{getDate()}/{courseName}_{courseCode}'
         pdf_output = os.path.join(output_directory, pdf_file_name)
@@ -44,7 +18,7 @@ class SeatingView:
 
         self.generate_pdf(pdf_output, courseName, courseCode,
                           examDate, examTime, examRoom, studentList)
-        print(f"PDF generated: {pdf_output}")
+        # print(f"PDF generated: {pdf_output}")
 
     def generate_pdf(self, output_file, courseName, courseCode, examDate, examTime, examRoom, studentList):
         left_margin = 36

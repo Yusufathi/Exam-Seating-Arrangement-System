@@ -4,11 +4,14 @@ from views.seating_view import SeatingView
 from views.ranges_view import RangesView
 import json
 from services.time_services import get_date_time_str, getDate
+
 registerationObj = {}
 rangesObj = {}
+latestData = None
 
 
 def buildRoomsLists(examRoom, courseName, courseCode, noOfStudents, examDate, examDay, examTime):
+    global latestData
     try:
         courseCode = courseCode.replace(" ", "")
         courseName = courseName.strip()
@@ -26,14 +29,18 @@ def buildRoomsLists(examRoom, courseName, courseCode, noOfStudents, examDate, ex
             examList.append(studentRecord)
         for i in range(noOfStudents):
             del registerationObj[courseCode][0]
-
+        latestData = (courseName, courseCode, examDate,
+                      examTime, examRoom)
         SeatingView(courseName, courseCode, examDate,
                     examTime, examRoom, examList)
         roomRecord = [examRoom, startID, endID, noOfStudents]
         addExamRange(courseName, courseCode, roomRecord)
 
-    except:
-        print("Something Went wrong. Please make sure that the data in the schedule is preprocessed and there is no spaces. \n Also Please make sure that the count of students in the course is synced with the count of students in the registeration DB. ")
+    except Exception as e:
+        print("=====================================================")
+        print("Exception Error : ", e)
+        print(f"{latestData}: Something Went wrong. Please make sure that the data in the schedule is preprocessed and there is no spaces. \n Also Please make sure that the count of students in the course is synced with the count of students in the registeration DB. ")
+        print("=====================================================")
 
 
 def buildExamRanges():
@@ -62,8 +69,7 @@ def addExamRange(courseName, courseCode, roomRecord):
     rangesObj[courseCode]["index"] = rangesObj[courseCode]["index"] + 1
 
 
-def iterateOverScheduleAndGenerateExamList():
-    inputScheduleCSVPath = '.\input\input_final_sheddule_isa_fall23.csv'
+def iterateOverScheduleAndGenerateExamList(inputScheduleCSVPath):
     scheduleService = ScheduleService(inputFilePath=inputScheduleCSVPath)
     schedule = scheduleService.getModel().scheduleObj
     daysCount = len(schedule.items())
@@ -83,12 +89,13 @@ def iterateOverScheduleAndGenerateExamList():
 
 
 if __name__ == "__main__":
+    inputScheduleCSVPath = '.\input\schedule_test.csv'
     reService = RegisterationService()
     registerationObj = reService.getModel().subjectsStudentsLists
-    iterateOverScheduleAndGenerateExamList()
+    iterateOverScheduleAndGenerateExamList(inputScheduleCSVPath)
     buildExamRanges()
     left_registerations_path = f'./outputs/{getDate()}/left.json'
     with open(f'./outputs/{getDate()}/left.json', 'w') as file:
         json.dump(registerationObj, file, indent=2)
         print(
-            f"The Registerations that wasn't made is written in the {left_registerations_path} file.\nIt might be due to the wrong course codes, The courses codes in the registeration isn't synced with what is in the schedule.")
+            f"The Seatings that wasn't made is written in the {left_registerations_path} file.\nIt might be due to the wrong course codes, The courses codes in the registeration isn't synced with what is in the schedule.")

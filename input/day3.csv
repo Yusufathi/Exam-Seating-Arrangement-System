@@ -1,0 +1,24 @@
+﻿Day,Date,Time,Level,Course Code,Course Name,Instructor,No. of Students,Required No. of Proctors,Room(s),No. of Students/ Room,No. of proctors / Room,Proctor(s)
+Thursday,11-Jan-23,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed Daboor,25,2,G2-4011,36,2,Eng. Omar - Eng. M. Goda
+Thursday,44937,10:00 - 12:00,Self Study,SWE411,Data Warehousing and Data Integration,Dr. Reham Adel,1,2,G2-4011,36,2,Eng. Omar - Eng. M. Goda
+Thursday,44937,10:00 - 12:00,Self Study,CNE401,Communications Technology I,Dr. Tarek Salem,2,2,G2-4011,36,2,Eng. Omar - Eng. M. Goda
+Thursday,44937,10:00 - 12:00,Self Study,CNE201,Electric Circuits,Prof. Hazem,2,2,G2-4011,36,2,Eng. Omar - Eng. M. Goda
+Thursday,44937,10:00 - 12:00,Self Study,CNE101,Electronics,Dr. Ahmed Abdel-Lati,4,2,G2-4011,36,2,Eng. Omar - Eng. M. Goda
+Thursday,44937,10:00 - 12:00,Self Study,CSC309,Data Science Programming,Dr. Ali Hamza,3,2,G2-4011,36,2,Eng. Omar - Eng. M. Goda
+Thursday,44937,10:00 - 12:00,4-CS,CSC409,Machine Learning,Dr. Ali Hamza,13,1,1310,13,1,Eng. A. Hamdy
+Thursday,44937,10:00 - 12:00,4-AI,AIN401,Machine Learning and Pattern Recognition,Dr. Ali Hamza,82,4,1225,15,1,Eng. Mina Beshai
+Thursday,44937,10:00 - 12:00,4-AI,AIN401,Machine Learning and Pattern Recognition,Dr. Ali Hamza,82,4,Hall8-4238,39,2,Eng. Mai El-Araby - Eng. Nora Tarek
+Thursday,44937,10:00 - 12:00,4-AI,AIN401,Machine Learning and Pattern Recognition,Dr. Ali Hamza,82,4,1212,14,1,Eng. Fayrou
+Thursday,44937,10:00 - 12:00,4-AI,AIN401,Machine Learning and Pattern Recognition,Dr. Ali Hamza,82,4,1218,14,1,Eng. H. Gamal
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1216,38,2,Eng. M. Goda - Eng. Mina Beshai
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1208,38,2,Eng. Fayrou - Eng. Nora Tarek
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1206,26,1,Eng. Monica
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1204,26,1,Eng. A. Hamdy
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,G2-4011,39,2,Eng. Omar - Eng. Diana Emad
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,Hall8-4238,40,2,Eng. M. Sobhy- Eng. Habiba
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1101,15,1,Eng. Nora Taha
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1115,15,1,Eng. Ismaiel
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1117,15,1,Eng. Enas
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1310,15,1,Eng. Esraa
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1225,15,1,Eng. Lujain
+Thursday,44937,12:30-2:30,3,CSC301,Operating System,Dr. Mervat,294,16,1212,12,1,Eng. Dina Ehab

@@ -1,0 +1,18 @@
+﻿Day,Date,Time,Level,Course Code,Course Name,Instructor,No. of Students,Required No. of Proctors,Room(s),No. of Students/ Room,No. of proctors / Room,Proctor(s)
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1108,40,2,Eng. Manar - Eng. Esraa
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1110,40,2,Eng. Habiba - Eng. Mina Besshai
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1112,40,2,Eng. Nora Taha - Eng. Dina Ehab
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1114,40,2,Eng. Nora Tarek - Eng. M. Sobhy
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1216,41,2,Eng. Fayrouz - Eng. Diana Emad
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1208,41,2,Eng. Sayed - Eng. H. Gamal
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1206,28,1,Eng. Lujain
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1204,28,1,Eng. Mai El-Araby
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,Hall8-4238,42,2,Eng. Enas - Eng. Omar
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1117,17,1,Eng. Lamia
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1225,17,1,Eng. Khlood
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1212,17,1,Eng. Ismaiel
+Wednesday,"January 10, 2023",10:00-12:00,2,MAT202,Calculus II,Dr. Rawhy,408,20,1218,17,1,Eng. Y. Fathi
+Wednesday,"January 10, 2023",12:30 - 2:30,4-CNE,CNE403,Cloud Computing,Dr. Abdel-Latif,34,2,Hall8-4238,34,2,Eng. Manar - Eng. Dina Ehab
+Wednesday,"January 10, 2023",12:30 - 2:30,Self Study,UNI102,Presentation and Communication Skills,Dr. Rawhy,3,1,1225,8,1,Eng. Omar
+Wednesday,"January 10, 2023",12:30 - 2:30,Self Study,CSC207,Event-Driven and reactive Programming,Dr. Ahmed Seif,2,1,1225,8,1,Eng. Omar
+Wednesday,"January 10, 2023",12:30 - 2:30,Self Study,CNE308,Information and Networks Security,Dr. Abdel-Latif,3,1,1225,8,1,Eng. Omar

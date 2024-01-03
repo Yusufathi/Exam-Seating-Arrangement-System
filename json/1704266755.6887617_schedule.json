@@ -1,0 +1,196 @@
+﻿{
+  "11-Jan-23_Thursday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "G2-4011",
+        "Date": "11-Jan-23",
+        "Day": "Thursday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 25
+      }
+    ]
+  },
+  "44937_Thursday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "G2-4011",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "SWE411",
+        "Course Name": "Data Warehousing and Data Integration",
+        "No. of Students": 1
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CNE401",
+        "Course Name": "Communications Technology I",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CNE201",
+        "Course Name": "Electric Circuits",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CNE101",
+        "Course Name": "Electronics",
+        "No. of Students": 4
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming",
+        "No. of Students": 3
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC409",
+        "Course Name": "Machine Learning",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "Hall8-4238",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "AIN401",
+        "Course Name": "Machine Learning and Pattern Recognition",
+        "No. of Students": 14
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1216",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 26
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 26
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "Hall8-4238",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "44937",
+        "Day": "Thursday",
+        "Course Code": "CSC301",
+        "Course Name": "Operating System",
+        "No. of Students": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+﻿{
+  "January10,2023_Wednesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 28
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 28
+      },
+      {
+        "Room(s)": "Hall8-4238",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 42
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 17
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 17
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 17
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "MAT202",
+        "Course Name": "Calculus II",
+        "No. of Students": 17
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "Hall8-4238",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "CNE403",
+        "Course Name": "Cloud Computing",
+        "No. of Students": 34
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "UNI102",
+        "Course Name": "Presentation and Communication Skills",
+        "No. of Students": 3
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "CSC207",
+        "Course Name": "Event-Driven and reactive Programming",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "January 10, 2023",
+        "Day": "Wednesday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 3
+      }
+    ]
+  }
+}

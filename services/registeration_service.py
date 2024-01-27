@@ -42,7 +42,7 @@ class RegisterationService:
             for row in csv_reader:
                 registerationCount += 1
                 code = row['subject_code']
-                composed_code = row['composed_code']
+                # composed_code = row['composed_code']
                 name = self.get_first_three_names(row['student_name'])
                 id = row['student_id']
                 try:

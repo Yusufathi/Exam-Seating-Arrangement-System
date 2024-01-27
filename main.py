@@ -89,7 +89,7 @@ def iterateOverScheduleAndGenerateExamList(inputScheduleCSVPath):
 
 
 if __name__ == "__main__":
-    inputScheduleCSVPath = '.\input\day3.csv'
+    inputScheduleCSVPath = '.\input\_app.csv'
     reService = RegisterationService()
     registerationObj = reService.getModel().subjectsStudentsLists
     iterateOverScheduleAndGenerateExamList(inputScheduleCSVPath)

@@ -1,0 +1,144 @@
+﻿{
+  "4-Jun-24_Tuesday": {
+    "12:30-2:30": [
+      {
+        "Room(s)": "1101",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 24
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 32
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE404",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 6
+      }
+    ],
+    "10:00-12:00": [
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE406",
+        "Course Name": "Distributed Systems",
+        "No. of Students": 6
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "CNE402",
+        "Course Name": "Parellel and Distributed Systems",
+        "No. of Students": 33
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "AIN414",
+        "Course Name": "Virtual Reality",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "AIN414",
+        "Course Name": "Virtual Reality",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "AIN414",
+        "Course Name": "Virtual Reality",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "4-Jun-24",
+        "Day": "Tuesday",
+        "Course Code": "AIN414",
+        "Course Name": "Virtual Reality",
+        "No. of Students": 39
+      }
+    ]
+  }
+}

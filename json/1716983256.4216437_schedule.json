@@ -1,0 +1,240 @@
+﻿{
+  "6-Jun-24_Thursday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CNE304",
+        "Course Name": "Computer Networks I",
+        "No. of Students": 1
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CNE302",
+        "Course Name": "Computer Organization & Architecture",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "UNI101",
+        "Course Name": "Critical Thinking",
+        "No. of Students": 3
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CNE409",
+        "Course Name": "Embedded Systems Design",
+        "No. of Students": 1
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "AIN412",
+        "Course Name": "Image and Speech Processing",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to computer science",
+        "No. of Students": 12
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to computer science",
+        "No. of Students": 12
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to computer science",
+        "No. of Students": 12
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CS101",
+        "Course Name": "Introduction to computer science",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CSC101",
+        "Course Name": "Introduction to computer science",
+        "No. of Students": 10
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CSC304",
+        "Course Name": "Programming on the Web",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "CSC403",
+        "Course Name": "Speech and image processing",
+        "No. of Students": 1
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1101",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 28
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 28
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "UNI102",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "UNI102",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 17
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 17
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 42
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "6-Jun-24",
+        "Day": "Thursday",
+        "Course Code": "HS104",
+        "Course Name": "Presentation and communications Skills",
+        "No. of Students": 43
+      }
+    ]
+  }
+}

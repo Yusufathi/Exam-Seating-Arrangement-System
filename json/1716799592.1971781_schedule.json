@@ -1,0 +1,280 @@
+﻿{
+  "5-Jun-24_Wednesday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1101",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1108",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "CS103",
+        "Course Name": "Discrete Structure ",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "MAT103 ",
+        "Course Name": "Discrete Mathematics",
+        "No. of Students": 26
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1204",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE201",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 36
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "5-Jun-24",
+        "Day": "Wednesday",
+        "Course Code": "SWE302",
+        "Course Name": "Information Systems Analysis and Design",
+        "No. of Students": 4
+      }
+    ]
+  }
+}

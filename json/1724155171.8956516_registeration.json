@@ -1,0 +1,4008 @@
+{
+  "SWE304": [
+    [
+      "4121084",
+      "Mohamed Khaled Abd"
+    ]
+  ],
+  "CNE411": [
+    [
+      "4121084",
+      "Mohamed Khaled Abd"
+    ]
+  ],
+  "SWE301": [
+    [
+      "4121094",
+      "Hager Mohamed Hassan"
+    ],
+    [
+      "41710173",
+      "Adham Abd El.Atti"
+    ],
+    [
+      "41810203",
+      "David Hany Micheal"
+    ],
+    [
+      "41910041",
+      "Amgad Mohamed Radwan"
+    ],
+    [
+      "41910179",
+      "Mohamed Gamal Ahmed"
+    ],
+    [
+      "41910376",
+      "Mohamed Ibrahim Eissa"
+    ],
+    [
+      "41920016",
+      "Mohamed Salah Nabih"
+    ],
+    [
+      "42010161",
+      "Omar mokhtar sayed"
+    ],
+    [
+      "42010233",
+      "Zeyad ahmed hendawy"
+    ],
+    [
+      "42010316",
+      "mayar khaled abdalazem"
+    ],
+    [
+      "42010486",
+      "Mohamed Mahmoud Youssry"
+    ],
+    [
+      "42010531",
+      "Emad Mohamed Hassib"
+    ],
+    [
+      "42010755",
+      "Abdallah Hegazy Abdelhakem"
+    ],
+    [
+      "42110013",
+      "Omar Hisham Fathi"
+    ],
+    [
+      "42110030",
+      "Ahmed Mamdouh Ali"
+    ],
+    [
+      "42110069",
+      "Mahmoud Ahmed Mahmoud"
+    ],
+    [
+      "42110145",
+      "Abdullah Al -"
+    ],
+    [
+      "42110242",
+      "Kerolos Nashed Mikhail"
+    ],
+    [
+      "42110419",
+      "Yousef Mohamed Gharib"
+    ],
+    [
+      "42110449",
+      "Al-Hussien Mosalam Abd"
+    ],
+    [
+      "42310501",
+      "Malak wael Kamal"
+    ]
+  ],
+  "STA201": [
+    [
+      "4121094",
+      "Hager Mohamed Hassan"
+    ]
+  ],
+  "UNI101": [
+    [
+      "4141195",
+      "Mostafa Khalid Abdelsalam"
+    ],
+    [
+      "41810141",
+      "Ahmed Sobhy Mohamed"
+    ],
+    [
+      "41810329",
+      "Mohamed Abdel.nabi Mohamed"
+    ],
+    [
+      "41820001",
+      "Abdelrahman Kamal Hussien"
+    ],
+    [
+      "41910133",
+      "Antounyos Mohsan Hafez"
+    ],
+    [
+      "41910289",
+      "Fady Magdy Hanna"
+    ],
+    [
+      "41910293",
+      "Mahmoud Sobhy Mahmoud"
+    ],
+    [
+      "41910297",
+      "Ahmed Hossam Ahmed"
+    ],
+    [
+      "42010751",
+      "Kareem Elsayed Youssef"
+    ],
+    [
+      "42110151",
+      "Yousef Hany Adly"
+    ],
+    [
+      "42110486",
+      "Amr Elsayed Mohamed"
+    ]
+  ],
+  "MAT202": [
+    [
+      "4141195",
+      "Mostafa Khalid Abdelsalam"
+    ],
+    [
+      "41720004",
+      "Mohamed Ayman Hassan"
+    ],
+    [
+      "41810324",
+      "Abdullah Ibrahim Azab"
+    ],
+    [
+      "41910041",
+      "Amgad Mohamed Radwan"
+    ],
+    [
+      "41910077",
+      "Ahmed Mohsen El.Sayed"
+    ],
+    [
+      "41910179",
+      "Mohamed Gamal Ahmed"
+    ],
+    [
+      "41910299",
+      "Abd El.Rahman Ahmed"
+    ],
+    [
+      "41910374",
+      "Abdel Aziz Fouad"
+    ],
+    [
+      "41910381",
+      "Essa Mousa Fayadh"
+    ],
+    [
+      "42010111",
+      "Aahmed Mohamed Mohamed"
+    ],
+    [
+      "42010531",
+      "Emad Mohamed Hassib"
+    ],
+    [
+      "42010556",
+      "Ahmed Reda Ahmed"
+    ],
+    [
+      "42010609",
+      "Ahmed Fawzy"
+    ],
+    [
+      "42010733",
+      "Hazem Hassan"
+    ],
+    [
+      "42010755",
+      "Abdallah Hegazy Abdelhakem"
+    ],
+    [
+      "42020005",
+      "Roaa Yasser Mohy"
+    ],
+    [
+      "42110002",
+      "Ryan Mohammed Ayman"
+    ],
+    [
+      "42110106",
+      "Yousef Abdullatif Abdel"
+    ],
+    [
+      "42110144",
+      "Mohammed Yasser Al"
+    ],
+    [
+      "42110145",
+      "Abdullah Al -"
+    ],
+    [
+      "42110163",
+      "Mazen Mohamed Abdel"
+    ],
+    [
+      "42110175",
+      "Gamal Mohammed Abdullah"
+    ],
+    [
+      "42110229",
+      "Abdullatif Mohammed Yousef"
+    ],
+    [
+      "42110236",
+      "Mohammed Shaaban Mohammed"
+    ],
+    [
+      "42110242",
+      "Kerolos Nashed Mikhail"
+    ],
+    [
+      "42110250",
+      "Yousef Mohammed Yousef"
+    ],
+    [
+      "42110280",
+      "Ali Osman Ali"
+    ],
+    [
+      "42110335",
+      "Mohamed Abdel Razek"
+    ],
+    [
+      "42110373",
+      "Alaa Ayman Mohamed"
+    ],
+    [
+      "42110384",
+      "Mohammed Kahlawi Abdel"
+    ],
+    [
+      "42110397",
+      "Rami Nadi Naana"
+    ],
+    [
+      "42110430",
+      "Yousef Rifaat Mohammed"
+    ],
+    [
+      "42110447",
+      "Barbara Atef Tawfiq"
+    ],
+    [
+      "42110456",
+      "Ziad Mohamed Roshdy"
+    ],
+    [
+      "42110504",
+      "Nourhan Mahmoud Mohamed"
+    ],
+    [
+      "42110521",
+      "Sohaila Mohamed Mahmoud"
+    ],
+    [
+      "42120013",
+      "Youssef Hamed Mohamed"
+    ],
+    [
+      "42210010",
+      "Ibrahim Shedeed Abdel"
+    ],
+    [
+      "42210020",
+      "Mohamed Wajih Yousef"
+    ],
+    [
+      "42210025",
+      "Omar Hany Yousry"
+    ],
+    [
+      "42210034",
+      "Kirolos Akram Magdy"
+    ],
+    [
+      "42210040",
+      "Felobater Ayman Nady"
+    ],
+    [
+      "42210047",
+      "Ahmed Elbasty Elnady"
+    ],
+    [
+      "42210056",
+      "Abdallah Taha Arfaa"
+    ],
+    [
+      "42210064",
+      "Abdelrahman Amr Ibrahim"
+    ],
+    [
+      "42210065",
+      "Mohamed Reda Mahmoud"
+    ],
+    [
+      "42210069",
+      "Kerolos Bakhet Mahrous"
+    ],
+    [
+      "42210094",
+      "Mary Sobhi Nemr"
+    ],
+    [
+      "42210135",
+      "Ghada Wageh Shalaby"
+    ],
+    [
+      "42210168",
+      "Ahmed Mohamed Osman"
+    ],
+    [
+      "42210203",
+      "Shady Zaki Habib"
+    ],
+    [
+      "42210230",
+      "Malk Alaa Elden"
+    ],
+    [
+      "42210240",
+      "Belal Fayez Ramadan"
+    ],
+    [
+      "42210286",
+      "Jana Mohamed Abdulaziz"
+    ],
+    [
+      "42210287",
+      "Ali Mohamed Yassin"
+    ],
+    [
+      "42210291",
+      "Mostafa Osama Attia"
+    ],
+    [
+      "42210299",
+      "Mohamed Baligh Hamdy"
+    ],
+    [
+      "42210306",
+      "Ahmed Hesham Ahmed"
+    ],
+    [
+      "42210312",
+      "Habiba Mohamed Mohamed"
+    ],
+    [
+      "42210351",
+      "Omar Hamid Zaki"
+    ],
+    [
+      "42210372",
+      "Omar shreif Elshemy"
+    ],
+    [
+      "42210378",
+      "Moaz Ayman Elyas"
+    ]
+  ],
+  "CNE302": [
+    [
+      "4141250",
+      "Ahmed Mohamed Abood"
+    ],
+    [
+      "41810041",
+      "Ahmed Ibrahim Ahmed"
+    ],
+    [
+      "41810137",
+      "Mohamed Nasser Mohamed"
+    ],
+    [
+      "41910017",
+      "Mohamed Waleed Mohamed"
+    ],
+    [
+      "41920015",
+      "Ahmed Naser Saad"
+    ],
+    [
+      "42010037",
+      "mahmoud hossam eldin"
+    ],
+    [
+      "42010211",
+      "nada eid shaban"
+    ],
+    [
+      "42010512",
+      "Mohammed Alsaadawy Mohammed"
+    ],
+    [
+      "42010661",
+      "Ahmed Hany Abdel"
+    ],
+    [
+      "42010740",
+      "Hussein Aly AbdelBari"
+    ]
+  ],
+  "CNE308": [
+    [
+      "4141250",
+      "Ahmed Mohamed Abood"
+    ],
+    [
+      "41810049",
+      "Ahmed Mohamed Salama"
+    ],
+    [
+      "41810088",
+      "Abd El.Aziz Said"
+    ],
+    [
+      "41810203",
+      "David Hany Micheal"
+    ],
+    [
+      "41910133",
+      "Antounyos Mohsan Hafez"
+    ],
+    [
+      "41910313",
+      "Ahmed Mohamed Qandil"
+    ],
+    [
+      "42010148",
+      "Omar Amir Mohamed"
+    ],
+    [
+      "42010242",
+      "kerolos nabil abied"
+    ],
+    [
+      "42010268",
+      "Eslam tamer mansour"
+    ],
+    [
+      "42010454",
+      "Rawan"
+    ],
+    [
+      "42010512",
+      "Mohammed Alsaadawy Mohammed"
+    ],
+    [
+      "42010672",
+      "Amir Essam El-Din"
+    ],
+    [
+      "42010688",
+      "Momen Ahmed Ali"
+    ],
+    [
+      "42010737",
+      "Selwan Mohamed Nagah"
+    ],
+    [
+      "42010754",
+      "Touqa Mohammed Kamal"
+    ],
+    [
+      "42110178",
+      "Mahmoud Zine El"
+    ],
+    [
+      "42110217",
+      "Robert Milad Wadea"
+    ],
+    [
+      "42110247",
+      "Mennaallah Sayed Ghalab"
+    ],
+    [
+      "42110250",
+      "Yousef Mohammed Yousef"
+    ],
+    [
+      "42110309",
+      "Mahmoud Rafat Samir"
+    ],
+    [
+      "42110343",
+      "Rahma Mahmoud Abdelalim"
+    ],
+    [
+      "42110384",
+      "Mohammed Kahlawi Abdel"
+    ],
+    [
+      "42110415",
+      "Abdul Rahman Atef"
+    ],
+    [
+      "42110430",
+      "Yousef Rifaat Mohammed"
+    ],
+    [
+      "42110449",
+      "Al-Hussien Mosalam Abd"
+    ],
+    [
+      "42110459",
+      "Aya Mohammed Taha"
+    ],
+    [
+      "42120008",
+      "Khadiga Ahmed Mouhamed"
+    ],
+    [
+      "42210367",
+      "Alaa Hussein Ibrahim"
+    ]
+  ],
+  "CNE414": [
+    [
+      "4141250",
+      "Ahmed Mohamed Abood"
+    ]
+  ],
+  "CNE403": [
+    [
+      "41710063",
+      "Fares wael El.Said"
+    ],
+    [
+      "42010612",
+      "Amro Ismail"
+    ]
+  ],
+  "CSC301": [
+    [
+      "41710063",
+      "Fares wael El.Said"
+    ],
+    [
+      "41920019",
+      "Mohamed Saad Ibrahim"
+    ],
+    [
+      "41920024",
+      "Mahmoud Fawzy Mohamed"
+    ],
+    [
+      "42010535",
+      "yousef amr abdelhamed"
+    ],
+    [
+      "42010588",
+      "Marwan Mabrook"
+    ],
+    [
+      "42010647",
+      "Aya Abdullah Tantawy"
+    ],
+    [
+      "42010751",
+      "Kareem Elsayed Youssef"
+    ],
+    [
+      "42110151",
+      "Yousef Hany Adly"
+    ],
+    [
+      "42110158",
+      "Abdel Fattah Mustafa"
+    ],
+    [
+      "42110352",
+      "Alaa Mohamed Sayed"
+    ],
+    [
+      "42110415",
+      "Abdul Rahman Atef"
+    ],
+    [
+      "42110459",
+      "Aya Mohammed Taha"
+    ],
+    [
+      "42110480",
+      "Saif eldin waled"
+    ],
+    [
+      "42110481",
+      "Muhammed Khaled Abdel-Rahman"
+    ]
+  ],
+  "SWE401": [
+    [
+      "41710086",
+      "Ahmed Adel Essa"
+    ]
+  ],
+  "SWE302": [
+    [
+      "41720004",
+      "Mohamed Ayman Hassan"
+    ]
+  ],
+  "SWE402": [
+    [
+      "41810007",
+      "Mohamed Salah Saied"
+    ],
+    [
+      "41810113",
+      "Mohmed Bahaa Abd"
+    ],
+    [
+      "41810249",
+      "Ahmed Mohamed Faisal"
+    ],
+    [
+      "41910114",
+      "Kerolos Youssef Anwer"
+    ],
+    [
+      "41910156",
+      "George Gamal Makram"
+    ],
+    [
+      "41910346",
+      "Mohamed Mohamed Ahmed"
+    ],
+    [
+      "41910364",
+      "Essam Samir Metwally"
+    ],
+    [
+      "42010006",
+      "Hamza Metwally Abdel"
+    ],
+    [
+      "42010030",
+      "Anwar Khaled Anwar"
+    ],
+    [
+      "42010253",
+      "Mina Hazem Khalifa"
+    ],
+    [
+      "42010620",
+      "Mohamed Mousa Fathi"
+    ],
+    [
+      "42010632",
+      "Bishoy Tarek Aziz"
+    ],
+    [
+      "42010751",
+      "Kareem Elsayed Youssef"
+    ],
+    [
+      "42110149",
+      "Omar Mustafa El"
+    ],
+    [
+      "42110325",
+      "Omnia Kamal Mohamed"
+    ],
+    [
+      "42110398",
+      "Ayad Osama alShahat"
+    ],
+    [
+      "42110474",
+      "Ahmed Kamal Ibrahim"
+    ],
+    [
+      "42120005",
+      "gamal abd el"
+    ],
+    [
+      "42210358",
+      "Reem Slama Saber"
+    ]
+  ],
+  "CSC310": [
+    [
+      "41810007",
+      "Mohamed Salah Saied"
+    ],
+    [
+      "41810137",
+      "Mohamed Nasser Mohamed"
+    ],
+    [
+      "41810218",
+      "Mohmed El.Fatih Azz"
+    ],
+    [
+      "41810276",
+      "Mostafa Mohamed Ibrahim"
+    ],
+    [
+      "41810329",
+      "Mohamed Abdel.nabi Mohamed"
+    ],
+    [
+      "41910008",
+      "Salman Eldesoky Shibl"
+    ],
+    [
+      "41920024",
+      "Mahmoud Fawzy Mohamed"
+    ],
+    [
+      "42010037",
+      "mahmoud hossam eldin"
+    ]
+  ],
+  "CSC204": [
+    [
+      "41810007",
+      "Mohamed Salah Saied"
+    ],
+    [
+      "41810069",
+      "Yousef Ahmed Mohamed"
+    ],
+    [
+      "41810293",
+      "Asmaa Abd El.Aziz"
+    ],
+    [
+      "41810314",
+      "Mahmood soliman Zakria"
+    ],
+    [
+      "41810330",
+      "Mohamed Essam AlDin"
+    ],
+    [
+      "41910065",
+      "Toka Reda Mahmoud"
+    ],
+    [
+      "41910109",
+      "Rawan Mohamed Fouad"
+    ],
+    [
+      "41910133",
+      "Antounyos Mohsan Hafez"
+    ],
+    [
+      "41910227",
+      "Mahmoud Wael Mohamed"
+    ],
+    [
+      "41910297",
+      "Ahmed Hossam Ahmed"
+    ],
+    [
+      "41910346",
+      "Mohamed Mohamed Ahmed"
+    ],
+    [
+      "42010121",
+      "Nada hesham saad"
+    ],
+    [
+      "42010220",
+      "Ahmed mohamed abdelrahman"
+    ],
+    [
+      "42010245",
+      "Tarek Fathi Saber"
+    ],
+    [
+      "42010311",
+      "Abdelrahman taha Mohamed"
+    ],
+    [
+      "42010459",
+      "Muhammed mostafa farooq"
+    ],
+    [
+      "42010472",
+      "Anas Ahmed Ibrahem"
+    ],
+    [
+      "42010596",
+      "Omar Essam"
+    ],
+    [
+      "42010668",
+      "Yousab Emad Rizk"
+    ],
+    [
+      "42010695",
+      "Mohamed Mahmoud Mohamed"
+    ],
+    [
+      "42010740",
+      "Hussein Aly AbdelBari"
+    ],
+    [
+      "42020013",
+      "Abdallah Osama Mohamed"
+    ],
+    [
+      "42110056",
+      "Mahmoud Mokhtar Mohamed"
+    ],
+    [
+      "42110175",
+      "Gamal Mohammed Abdullah"
+    ],
+    [
+      "42110302",
+      "Mohamed Mahmoud Abdel"
+    ],
+    [
+      "42110311",
+      "Nader Ahmed Ahmed"
+    ],
+    [
+      "42110335",
+      "Mohamed Abdel Razek"
+    ],
+    [
+      "42110341",
+      "Ahmed Wael Ahmed"
+    ],
+    [
+      "42110372",
+      "Mahmoud Ahmed Fathy"
+    ],
+    [
+      "42110397",
+      "Rami Nadi Naana"
+    ],
+    [
+      "42110420",
+      "Mohamed Ashraf Abdel"
+    ],
+    [
+      "42110422",
+      "Yousef Ashraf Mohamed"
+    ],
+    [
+      "42110448",
+      "Hassan Hossam Al"
+    ],
+    [
+      "42110456",
+      "Ziad Mohamed Roshdy"
+    ],
+    [
+      "42110476",
+      "Nagah Hany Nagah"
+    ],
+    [
+      "42110485",
+      "Zeiad Mohamed Abdelkader"
+    ],
+    [
+      "42110515",
+      "Mohamed Ahmed Eldarshawy"
+    ],
+    [
+      "42110521",
+      "Sohaila Mohamed Mahmoud"
+    ],
+    [
+      "42210088",
+      "Malak Waleed Abdelrahman"
+    ],
+    [
+      "42210128",
+      "Shrouk Saber Ibrahim"
+    ],
+    [
+      "42210218",
+      "Mahmoud Medhat Mahmoud"
+    ],
+    [
+      "42210240",
+      "Belal Fayez Ramadan"
+    ],
+    [
+      "42210291",
+      "Mostafa Osama Attia"
+    ],
+    [
+      "42210303",
+      "Malak Magdy Mahmoud"
+    ]
+  ],
+  "CNE304": [
+    [
+      "41810015",
+      "Essam Ahmed Kamal"
+    ],
+    [
+      "41810112",
+      "Mohamed Sabry Mohamed"
+    ],
+    [
+      "41810141",
+      "Ahmed Sobhy Mohamed"
+    ],
+    [
+      "41810145",
+      "Ahmed Alaa Farag"
+    ],
+    [
+      "41810172",
+      "Abd El.Rahman Ahmed"
+    ],
+    [
+      "41810173",
+      "Abd El.Rahman Ahmed"
+    ],
+    [
+      "41810255",
+      "Mohamed Saad Ezz"
+    ],
+    [
+      "41810276",
+      "Mostafa Mohamed Ibrahim"
+    ],
+    [
+      "41810293",
+      "Asmaa Abd El.Aziz"
+    ],
+    [
+      "41810314",
+      "Mahmood soliman Zakria"
+    ],
+    [
+      "41810325",
+      "Zyad Hamed El-Sayed"
+    ],
+    [
+      "41910041",
+      "Amgad Mohamed Radwan"
+    ],
+    [
+      "41910077",
+      "Ahmed Mohsen El.Sayed"
+    ],
+    [
+      "41910094",
+      "Hamza Mohamed Khamis"
+    ],
+    [
+      "41910103",
+      "Mohamed Kamal Saad"
+    ],
+    [
+      "41910179",
+      "Mohamed Gamal Ahmed"
+    ],
+    [
+      "41910182",
+      "Rawan Amgad Hamza"
+    ],
+    [
+      "41910200",
+      "Seif El.Din Akram"
+    ],
+    [
+      "41910271",
+      "George Salah Adeb"
+    ],
+    [
+      "41910276",
+      "OSama Atef Kandel"
+    ],
+    [
+      "41910309",
+      "Ahmed Nasser Abd"
+    ],
+    [
+      "41910322",
+      "Mohamed Maged Sayed"
+    ],
+    [
+      "41910359",
+      "Ahmed Hany Mohamed"
+    ],
+    [
+      "41910374",
+      "Abdel Aziz Fouad"
+    ],
+    [
+      "41910381",
+      "Essa Mousa Fayadh"
+    ],
+    [
+      "41920015",
+      "Ahmed Naser Saad"
+    ],
+    [
+      "41920019",
+      "Mohamed Saad Ibrahim"
+    ],
+    [
+      "42010117",
+      "Adel Osama samir"
+    ],
+    [
+      "42010146",
+      "Ziad Akram"
+    ],
+    [
+      "42010233",
+      "Zeyad ahmed hendawy"
+    ],
+    [
+      "42010311",
+      "Abdelrahman taha Mohamed"
+    ],
+    [
+      "42010316",
+      "mayar khaled abdalazem"
+    ],
+    [
+      "42010334",
+      "Mohamed Tarek Maamoun"
+    ],
+    [
+      "42010349",
+      "fady magdy elsayed"
+    ],
+    [
+      "42010375",
+      "Kareem Ahmed Fathy"
+    ],
+    [
+      "42010422",
+      "Galal Eldin Maher"
+    ],
+    [
+      "42010459",
+      "Muhammed mostafa farooq"
+    ],
+    [
+      "42010520",
+      "Youssef Ashraf Mohamed"
+    ],
+    [
+      "42010531",
+      "Emad Mohamed Hassib"
+    ],
+    [
+      "42010556",
+      "Ahmed Reda Ahmed"
+    ],
+    [
+      "42010565",
+      "Youssef Ali Kamal"
+    ],
+    [
+      "42010607",
+      "Heballah Ali"
+    ],
+    [
+      "42010659",
+      "Youssef Mahmoud Youssef"
+    ],
+    [
+      "42010668",
+      "Yousab Emad Rizk"
+    ],
+    [
+      "42010681",
+      "Mohamed Abdel Kader"
+    ],
+    [
+      "42010695",
+      "Mohamed Mahmoud Mohamed"
+    ],
+    [
+      "42010713",
+      "Heidi Mohamed Adel"
+    ],
+    [
+      "42010719",
+      "Mohamed Amjad Kamal"
+    ],
+    [
+      "42010733",
+      "Hazem Hassan"
+    ],
+    [
+      "42020002",
+      "Raiman Musleh Ali"
+    ],
+    [
+      "42020013",
+      "Abdallah Osama Mohamed"
+    ],
+    [
+      "42110014",
+      "Maryam Mohammed Ibrahim"
+    ],
+    [
+      "42110058",
+      "Mohamed Faraj Abdel"
+    ],
+    [
+      "42110097",
+      "Abdul Rahman Ali"
+    ],
+    [
+      "42110106",
+      "Yousef Abdullatif Abdel"
+    ],
+    [
+      "42110108",
+      "Ziad Nasser Radwan"
+    ],
+    [
+      "42110142",
+      "Rawan Elsayed Hashim"
+    ],
+    [
+      "42110145",
+      "Abdullah Al -"
+    ],
+    [
+      "42110298",
+      "Mohammed Abdul Aziz"
+    ],
+    [
+      "42110330",
+      "George Amir Rashad"
+    ],
+    [
+      "42110352",
+      "Alaa Mohamed Sayed"
+    ],
+    [
+      "42110372",
+      "Mahmoud Ahmed Fathy"
+    ],
+    [
+      "42110397",
+      "Rami Nadi Naana"
+    ],
+    [
+      "42110447",
+      "Barbara Atef Tawfiq"
+    ],
+    [
+      "42110448",
+      "Hassan Hossam Al"
+    ],
+    [
+      "42110456",
+      "Ziad Mohamed Roshdy"
+    ],
+    [
+      "42110468",
+      "Shehab sayed Mohmed"
+    ],
+    [
+      "42110481",
+      "Muhammed Khaled Abdel-Rahman"
+    ],
+    [
+      "42110485",
+      "Zeiad Mohamed Abdelkader"
+    ],
+    [
+      "42110513",
+      "Ahmed Waleed Ahmed"
+    ]
+  ],
+  "CNE101": [
+    [
+      "41810015",
+      "Essam Ahmed Kamal"
+    ],
+    [
+      "41810145",
+      "Ahmed Alaa Farag"
+    ],
+    [
+      "41810314",
+      "Mahmood soliman Zakria"
+    ],
+    [
+      "41810329",
+      "Mohamed Abdel.nabi Mohamed"
+    ],
+    [
+      "41910193",
+      "Mahmoud Ahmed Mahmoud"
+    ],
+    [
+      "41910198",
+      "Anas Mohamed Youssif"
+    ],
+    [
+      "41910252",
+      "Ahmed Mohamed El.Sayed"
+    ],
+    [
+      "41910322",
+      "Mohamed Maged Sayed"
+    ],
+    [
+      "41910359",
+      "Ahmed Hany Mohamed"
+    ],
+    [
+      "41910376",
+      "Mohamed Ibrahim Eissa"
+    ],
+    [
+      "42010161",
+      "Omar mokhtar sayed"
+    ],
+    [
+      "42010245",
+      "Tarek Fathi Saber"
+    ],
+    [
+      "42010659",
+      "Youssef Mahmoud Youssef"
+    ],
+    [
+      "42010681",
+      "Mohamed Abdel Kader"
+    ],
+    [
+      "42010740",
+      "Hussein Aly AbdelBari"
+    ],
+    [
+      "42010754",
+      "Touqa Mohammed Kamal"
+    ],
+    [
+      "42110308",
+      "Anton Saher Adeeb"
+    ],
+    [
+      "42110405",
+      "Ahmed Hussein Jouda"
+    ],
+    [
+      "42110412",
+      "Ziad Mohamed El"
+    ],
+    [
+      "42110485",
+      "Zeiad Mohamed Abdelkader"
+    ],
+    [
+      "42110516",
+      "Ahmed Mohamed Basuony"
+    ],
+    [
+      "42120008",
+      "Khadiga Ahmed Mouhamed"
+    ],
+    [
+      "42210081",
+      "Ahmed Aymen Mohamed"
+    ],
+    [
+      "42210136",
+      "Fady Alber Ibrahem"
+    ],
+    [
+      "42210153",
+      "Hassan Adel Dlawar"
+    ],
+    [
+      "42210156",
+      "Ahmed Kamal Amin"
+    ],
+    [
+      "42210157",
+      "Ahmed Mohamed Abd"
+    ],
+    [
+      "42210163",
+      "Mohamed Mahmoud Badr"
+    ],
+    [
+      "42210165",
+      "Abanoub Attia Tawfik"
+    ],
+    [
+      "42210172",
+      "Rony Sherif Mohamed"
+    ],
+    [
+      "42210199",
+      "Yousif Mohamed Abd"
+    ],
+    [
+      "42210204",
+      "Aya Essam Abd"
+    ],
+    [
+      "42210206",
+      "Ahmed Mohamed Kenawy"
+    ],
+    [
+      "42210207",
+      "Ahmed Nasr Saber"
+    ],
+    [
+      "42210214",
+      "Mena Ahmed Mhmmoude"
+    ],
+    [
+      "42210220",
+      "Omar Ehab Mohamed"
+    ],
+    [
+      "42210228",
+      "Mohamed Ahmed Reda"
+    ],
+    [
+      "42210243",
+      "Zeyad Mostafa Mohamed"
+    ],
+    [
+      "42210347",
+      "Saifeldin Ehab Ahmed"
+    ],
+    [
+      "42210358",
+      "Reem Slama Saber"
+    ],
+    [
+      "42220002",
+      "Youssef Magdy Abdelrazeq"
+    ]
+  ],
+  "CSC309": [
+    [
+      "41810088",
+      "Abd El.Aziz Said"
+    ],
+    [
+      "41810218",
+      "Mohmed El.Fatih Azz"
+    ],
+    [
+      "41810238",
+      "Said Mohamed Ibrahim"
+    ],
+    [
+      "41910045",
+      "Omar Nasr El.Din"
+    ],
+    [
+      "42010148",
+      "Omar Amir Mohamed"
+    ],
+    [
+      "42010639",
+      "Ahmed Mostafa"
+    ],
+    [
+      "42010640",
+      "Shimaa Mostafa"
+    ],
+    [
+      "42010752",
+      "Mohammed Ahmed Hassan"
+    ],
+    [
+      "42110382",
+      "Mohamed Eid Hussein"
+    ],
+    [
+      "42110477",
+      "Keroles Khalaf AbdElmalak"
+    ]
+  ],
+  "PHY101": [
+    [
+      "41810112",
+      "Mohamed Sabry Mohamed"
+    ],
+    [
+      "41810172",
+      "Abd El.Rahman Ahmed"
+    ],
+    [
+      "42010030",
+      "Anwar Khaled Anwar"
+    ],
+    [
+      "42010324",
+      "elamir ahmed hamed"
+    ],
+    [
+      "42110522",
+      "Mohamed Sameh El"
+    ],
+    [
+      "42120017",
+      "Youssef Ezzat El-Sayed"
+    ],
+    [
+      "42210376",
+      "Mahmoud Fadel Ahmed"
+    ],
+    [
+      "42210378",
+      "Moaz Ayman Elyas"
+    ],
+    [
+      "42310557",
+      "Shorouk Gmal Abbas"
+    ],
+    [
+      "42310567",
+      "Mostafa Atta"
+    ]
+  ],
+  "CNE310": [
+    [
+      "41810137",
+      "Mohamed Nasser Mohamed"
+    ],
+    [
+      "41910289",
+      "Fady Magdy Hanna"
+    ],
+    [
+      "42010242",
+      "kerolos nabil abied"
+    ],
+    [
+      "42010268",
+      "Eslam tamer mansour"
+    ],
+    [
+      "42020011",
+      "Mariam Ahmed Mohamed"
+    ]
+  ],
+  "CSC304": [
+    [
+      "41810137",
+      "Mohamed Nasser Mohamed"
+    ],
+    [
+      "41810218",
+      "Mohmed El.Fatih Azz"
+    ],
+    [
+      "41820001",
+      "Abdelrahman Kamal Hussien"
+    ],
+    [
+      "41910376",
+      "Mohamed Ibrahim Eissa"
+    ],
+    [
+      "41920024",
+      "Mahmoud Fawzy Mohamed"
+    ]
+  ],
+  "CNE203": [
+    [
+      "41810142",
+      "Ahmed Mohamed El.Sayed"
+    ],
+    [
+      "41810238",
+      "Said Mohamed Ibrahim"
+    ],
+    [
+      "41810274",
+      "Mostafa Abd El.Aty"
+    ],
+    [
+      "41810319",
+      "Ahmed Mohamed Mostafa"
+    ],
+    [
+      "41910045",
+      "Omar Nasr El.Din"
+    ],
+    [
+      "41910184",
+      "Youssef Raouf Bahy"
+    ],
+    [
+      "41910383",
+      "Asem Tayseem Aref"
+    ],
+    [
+      "41920002",
+      "Kerolous Waguih Thabet"
+    ],
+    [
+      "41920013",
+      "Samir Gaber Samir"
+    ],
+    [
+      "41920023",
+      "Ahmed Nagih Ismail"
+    ],
+    [
+      "42010414",
+      "Moaz Nasser Abdul"
+    ],
+    [
+      "42010425",
+      "Mohamed Elsayed Mohamed"
+    ],
+    [
+      "42010489",
+      "Karim Osama"
+    ],
+    [
+      "42010580",
+      "Mohamed Tallat"
+    ],
+    [
+      "42010609",
+      "Ahmed Fawzy"
+    ],
+    [
+      "42010690",
+      "Raymon Malak Makram"
+    ],
+    [
+      "42110002",
+      "Ryan Mohammed Ayman"
+    ],
+    [
+      "42110144",
+      "Mohammed Yasser Al"
+    ],
+    [
+      "42110149",
+      "Omar Mustafa El"
+    ],
+    [
+      "42110202",
+      "Ahmed Mohamed Ali"
+    ],
+    [
+      "42110229",
+      "Abdullatif Mohammed Yousef"
+    ],
+    [
+      "42110230",
+      "Anton Amjad Waheb"
+    ],
+    [
+      "42110236",
+      "Mohammed Shaaban Mohammed"
+    ],
+    [
+      "42110246",
+      "Ammar Hamada Mahmoud"
+    ],
+    [
+      "42110263",
+      "Mohamed El Sayed"
+    ],
+    [
+      "42110297",
+      "Nada Mohammed Taha"
+    ],
+    [
+      "42110308",
+      "Anton Saher Adeeb"
+    ],
+    [
+      "42110357",
+      "Mohamed Ashraf Hamed"
+    ],
+    [
+      "42110373",
+      "Alaa Ayman Mohamed"
+    ],
+    [
+      "42110382",
+      "Mohamed Eid Hussein"
+    ],
+    [
+      "42110398",
+      "Ayad Osama alShahat"
+    ],
+    [
+      "42110412",
+      "Ziad Mohamed El"
+    ],
+    [
+      "42110432",
+      "Walid Mohammed Reda"
+    ],
+    [
+      "42110446",
+      "Ahmed Ashraf Fathi"
+    ],
+    [
+      "42110483",
+      "Eyad omar alansary"
+    ],
+    [
+      "42110504",
+      "Nourhan Mahmoud Mohamed"
+    ],
+    [
+      "42110516",
+      "Ahmed Mohamed Basuony"
+    ],
+    [
+      "42120002",
+      "mohamed ahmed mahrous"
+    ],
+    [
+      "42120006",
+      "abd el rahman"
+    ],
+    [
+      "42120007",
+      "Youssif Karim Ramadan"
+    ],
+    [
+      "42120013",
+      "Youssef Hamed Mohamed"
+    ],
+    [
+      "42210002",
+      "Marco Abd El"
+    ],
+    [
+      "42210010",
+      "Ibrahim Shedeed Abdel"
+    ],
+    [
+      "42210020",
+      "Mohamed Wajih Yousef"
+    ],
+    [
+      "42210025",
+      "Omar Hany Yousry"
+    ],
+    [
+      "42210034",
+      "Kirolos Akram Magdy"
+    ],
+    [
+      "42210040",
+      "Felobater Ayman Nady"
+    ],
+    [
+      "42210047",
+      "Ahmed Elbasty Elnady"
+    ],
+    [
+      "42210048",
+      "Abdulrahman Mahmoud Said"
+    ],
+    [
+      "42210053",
+      "Kermina Ayman Abdelmasseh"
+    ],
+    [
+      "42210056",
+      "Abdallah Taha Arfaa"
+    ],
+    [
+      "42210057",
+      "Mazen Gomaa Hassan"
+    ],
+    [
+      "42210058",
+      "Basmala Emad Atia"
+    ],
+    [
+      "42210060",
+      "Mostafa Hytham Mymoon"
+    ],
+    [
+      "42210062",
+      "Esam Mostafa Sayed"
+    ],
+    [
+      "42210064",
+      "Abdelrahman Amr Ibrahim"
+    ],
+    [
+      "42210065",
+      "Mohamed Reda Mahmoud"
+    ],
+    [
+      "42210068",
+      "Toka Ashraf Mohamed"
+    ],
+    [
+      "42210069",
+      "Kerolos Bakhet Mahrous"
+    ],
+    [
+      "42210076",
+      "Omar Abdelkalaq Ahmed"
+    ],
+    [
+      "42210079",
+      "Malak Saeed Mohamed"
+    ],
+    [
+      "42210080",
+      "Zeyad Ahmed Ragab"
+    ],
+    [
+      "42210081",
+      "Ahmed Aymen Mohamed"
+    ],
+    [
+      "42210085",
+      "Abdulrahman Mohamed Hasan"
+    ],
+    [
+      "42210086",
+      "Yousef Gamal Mostafa"
+    ],
+    [
+      "42210094",
+      "Mary Sobhi Nemr"
+    ],
+    [
+      "42210097",
+      "Mohamed Ahmed Sayed"
+    ],
+    [
+      "42210101",
+      "Abdelrahman Wael Hassan"
+    ],
+    [
+      "42210110",
+      "Yousf Elsayed Bakry"
+    ],
+    [
+      "42210121",
+      "Saif Fakhry Ragab"
+    ],
+    [
+      "42210126",
+      "Ahmed Haytham Ragab"
+    ],
+    [
+      "42210127",
+      "Awsam Ahmed Raafat"
+    ],
+    [
+      "42210129",
+      "Malak Ayman Abdellatif"
+    ],
+    [
+      "42210131",
+      "Mohamed Deyaa Eldeen"
+    ],
+    [
+      "42210135",
+      "Ghada Wageh Shalaby"
+    ],
+    [
+      "42210138",
+      "Abdelnaeem Mohamed Abdelmonaeem"
+    ],
+    [
+      "42210140",
+      "Ahmed Mahmoud Ahmed"
+    ],
+    [
+      "42210150",
+      "Amr Mohamed Ibrahim"
+    ],
+    [
+      "42210151",
+      "Amany Mahmoud Abdelaty"
+    ],
+    [
+      "42210153",
+      "Hassan Adel Dlawar"
+    ],
+    [
+      "42210156",
+      "Ahmed Kamal Amin"
+    ],
+    [
+      "42210158",
+      "Amr Alaa Fikery"
+    ],
+    [
+      "42210160",
+      "Ahmed Hossam Eldin"
+    ],
+    [
+      "42210167",
+      "Omar Khalid Salah"
+    ],
+    [
+      "42210168",
+      "Ahmed Mohamed Osman"
+    ],
+    [
+      "42210169",
+      "Saif Mohamed Mahmoud"
+    ],
+    [
+      "42210171",
+      "Omar Mahmoud Abd"
+    ],
+    [
+      "42210172",
+      "Rony Sherif Mohamed"
+    ],
+    [
+      "42210175",
+      "Noureldin Magdy Hassan"
+    ],
+    [
+      "42210181",
+      "Omar Maged Gomaa"
+    ],
+    [
+      "42210187",
+      "Hassan Mohamed Ahmed"
+    ],
+    [
+      "42210189",
+      "Omnia Essam El"
+    ],
+    [
+      "42210190",
+      "Basil Mohamed Elsaied"
+    ],
+    [
+      "42210192",
+      "Mennatallah Maher Mohamed"
+    ],
+    [
+      "42210193",
+      "Aml Elsayed Gadalkareem"
+    ],
+    [
+      "42210197",
+      "Amir Waleed Ragab"
+    ],
+    [
+      "42210199",
+      "Yousif Mohamed Abd"
+    ],
+    [
+      "42210203",
+      "Shady Zaki Habib"
+    ],
+    [
+      "42210204",
+      "Aya Essam Abd"
+    ],
+    [
+      "42210216",
+      "Malak Ahmed Samy"
+    ],
+    [
+      "42210220",
+      "Omar Ehab Mohamed"
+    ],
+    [
+      "42210223",
+      "Shahd Mohamed Mohamed"
+    ],
+    [
+      "42210233",
+      "Mo'Men Nabil Ahmed"
+    ],
+    [
+      "42210235",
+      "Abdelhamid Emad Abdelmohsen"
+    ],
+    [
+      "42210241",
+      "Mennatullah Abdul Monem"
+    ],
+    [
+      "42210252",
+      "Mazen Mohamed Mohamed"
+    ],
+    [
+      "42210254",
+      "Ziad Saeed Yahya"
+    ],
+    [
+      "42210255",
+      "Mohmed Khalid Kaseim"
+    ],
+    [
+      "42210256",
+      "Ayman Emad Eldeen"
+    ],
+    [
+      "42210264",
+      "Ahmed Yasser Abo"
+    ],
+    [
+      "42210267",
+      "Abdelrahman Mohamed Mahmoud"
+    ],
+    [
+      "42210269",
+      "Muhammad Abd Al-Nabi"
+    ],
+    [
+      "42210274",
+      "Fady Emmanuel Wagih"
+    ],
+    [
+      "42210276",
+      "Moustafa Emad Attia"
+    ],
+    [
+      "42210277",
+      "Saif Emad El"
+    ],
+    [
+      "42210284",
+      "Mohamed Salah Mohamed"
+    ],
+    [
+      "42210287",
+      "Ali Mohamed Yassin"
+    ],
+    [
+      "42210292",
+      "Mayar Shawkat Shebl"
+    ],
+    [
+      "42210299",
+      "Mohamed Baligh Hamdy"
+    ],
+    [
+      "42210300",
+      "Basmala Waleed Ahmed"
+    ],
+    [
+      "42210305",
+      "Ahmed Ekramy Ahmed"
+    ],
+    [
+      "42210306",
+      "Ahmed Hesham Ahmed"
+    ],
+    [
+      "42210309",
+      "Ahmed Gamal Mostafa"
+    ],
+    [
+      "42210313",
+      "Abdulla Saeed Hassan"
+    ],
+    [
+      "42210314",
+      "Omar Eid Said"
+    ],
+    [
+      "42210315",
+      "Bara Ala Ladin"
+    ],
+    [
+      "42210325",
+      "Ahmed Baligh Mohammed"
+    ],
+    [
+      "42210333",
+      "Ahmed Mohamed Maher"
+    ],
+    [
+      "42210342",
+      "Osama Ahmed Zakaria"
+    ],
+    [
+      "42210347",
+      "Saifeldin Ehab Ahmed"
+    ],
+    [
+      "42210351",
+      "Omar Hamid Zaki"
+    ],
+    [
+      "42210353",
+      "Mohamed Ramadan Shams"
+    ],
+    [
+      "42210355",
+      "Mentalla Ahmed Nageib"
+    ],
+    [
+      "42210361",
+      "Mostafa Atef Mohamed"
+    ],
+    [
+      "42210364",
+      "Mohamed Allithi Hamdy"
+    ],
+    [
+      "42210369",
+      "Mohamed hesham elsharkawy"
+    ],
+    [
+      "42220001",
+      "Abdallah Ahmed Khalil"
+    ],
+    [
+      "42310041",
+      "Ahmed Nader Mohsen"
+    ],
+    [
+      "42310502",
+      "Fam Mina luis"
+    ],
+    [
+      "42310541",
+      "Habiba Ali Mahmoud"
+    ]
+  ],
+  "CSC203": [
+    [
+      "41810173",
+      "Abd El.Rahman Ahmed"
+    ],
+    [
+      "42010289",
+      "Ammar Samy Abdelkader"
+    ],
+    [
+      "42010343",
+      "Ahmed abdelgalil abdelgalil"
+    ],
+    [
+      "42010690",
+      "Raymon Malak Makram"
+    ],
+    [
+      "42110164",
+      "Hassan Khader Ahmed"
+    ],
+    [
+      "42110278",
+      "Ibrahim Osama Ibrahim"
+    ],
+    [
+      "42110302",
+      "Mohamed Mahmoud Abdel"
+    ],
+    [
+      "42110311",
+      "Nader Ahmed Ahmed"
+    ],
+    [
+      "42110312",
+      "Samy Hany Ramadan"
+    ],
+    [
+      "42110341",
+      "Ahmed Wael Ahmed"
+    ],
+    [
+      "42110404",
+      "Mohamed Emad Mahmoud"
+    ],
+    [
+      "42110446",
+      "Ahmed Ashraf Fathi"
+    ],
+    [
+      "42110476",
+      "Nagah Hany Nagah"
+    ],
+    [
+      "42110486",
+      "Amr Elsayed Mohamed"
+    ],
+    [
+      "42120009",
+      "Martina Mamdouh Lamie"
+    ],
+    [
+      "42210160",
+      "Ahmed Hossam Eldin"
+    ],
+    [
+      "42210166",
+      "Zakaria Fathy Zakaria"
+    ],
+    [
+      "42210173",
+      "Hossam Eldin Mostafa"
+    ],
+    [
+      "42210181",
+      "Omar Maged Gomaa"
+    ],
+    [
+      "42210197",
+      "Amir Waleed Ragab"
+    ],
+    [
+      "42210218",
+      "Mahmoud Medhat Mahmoud"
+    ],
+    [
+      "42210274",
+      "Fady Emmanuel Wagih"
+    ],
+    [
+      "42210276",
+      "Moustafa Emad Attia"
+    ],
+    [
+      "42210284",
+      "Mohamed Salah Mohamed"
+    ],
+    [
+      "42210305",
+      "Ahmed Ekramy Ahmed"
+    ],
+    [
+      "42210314",
+      "Omar Eid Said"
+    ],
+    [
+      "42210319",
+      "Ahmed Abdalla Salem"
+    ],
+    [
+      "42210328",
+      "Omar Ahmed Farghaly"
+    ],
+    [
+      "42210333",
+      "Ahmed Mohamed Maher"
+    ],
+    [
+      "42210352",
+      "Yousuf Adel Mohamed"
+    ],
+    [
+      "42310048",
+      "nourhan khaled mohamed"
+    ],
+    [
+      "42310502",
+      "Fam Mina luis"
+    ]
+  ],
+  "MAN101": [
+    [
+      "41810203",
+      "David Hany Micheal"
+    ],
+    [
+      "41910016",
+      "Mohamed Hemdan Zidan"
+    ],
+    [
+      "41910017",
+      "Mohamed Waleed Mohamed"
+    ],
+    [
+      "41910198",
+      "Anas Mohamed Youssif"
+    ],
+    [
+      "41910252",
+      "Ahmed Mohamed El.Sayed"
+    ],
+    [
+      "42010117",
+      "Adel Osama samir"
+    ],
+    [
+      "42010211",
+      "nada eid shaban"
+    ],
+    [
+      "42010618",
+      "Sohayb Adel Abdel"
+    ],
+    [
+      "42010740",
+      "Hussein Aly AbdelBari"
+    ],
+    [
+      "42110382",
+      "Mohamed Eid Hussein"
+    ],
+    [
+      "42110445",
+      "Bassem Osama Mohamed"
+    ],
+    [
+      "42110522",
+      "Mohamed Sameh El"
+    ]
+  ],
+  "CSC303": [
+    [
+      "41810218",
+      "Mohmed El.Fatih Azz"
+    ],
+    [
+      "41810255",
+      "Mohamed Saad Ezz"
+    ],
+    [
+      "41910309",
+      "Ahmed Nasser Abd"
+    ],
+    [
+      "41910322",
+      "Mohamed Maged Sayed"
+    ],
+    [
+      "41910359",
+      "Ahmed Hany Mohamed"
+    ],
+    [
+      "41910374",
+      "Abdel Aziz Fouad"
+    ],
+    [
+      "41910381",
+      "Essa Mousa Fayadh"
+    ],
+    [
+      "42010006",
+      "Hamza Metwally Abdel"
+    ],
+    [
+      "42010111",
+      "Aahmed Mohamed Mohamed"
+    ],
+    [
+      "42010253",
+      "Mina Hazem Khalifa"
+    ],
+    [
+      "42010396",
+      "bassem mohamed elsaied"
+    ],
+    [
+      "42010639",
+      "Ahmed Mostafa"
+    ],
+    [
+      "42010640",
+      "Shimaa Mostafa"
+    ],
+    [
+      "42010681",
+      "Mohamed Abdel Kader"
+    ],
+    [
+      "42010723",
+      "Ramy Tamer Wahib"
+    ],
+    [
+      "42010752",
+      "Mohammed Ahmed Hassan"
+    ],
+    [
+      "42020002",
+      "Raiman Musleh Ali"
+    ],
+    [
+      "42110445",
+      "Bassem Osama Mohamed"
+    ],
+    [
+      "42110447",
+      "Barbara Atef Tawfiq"
+    ],
+    [
+      "42110477",
+      "Keroles Khalaf AbdElmalak"
+    ]
+  ],
+  "SWE201": [
+    [
+      "41810274",
+      "Mostafa Abd El.Aty"
+    ],
+    [
+      "41910184",
+      "Youssef Raouf Bahy"
+    ],
+    [
+      "41920023",
+      "Ahmed Nagih Ismail"
+    ],
+    [
+      "42010111",
+      "Aahmed Mohamed Mohamed"
+    ],
+    [
+      "42010486",
+      "Mohamed Mahmoud Youssry"
+    ],
+    [
+      "42020009",
+      "Mohamed Saed Mousalm"
+    ],
+    [
+      "42110115",
+      "Abdulrahman Reda Abdulhadi"
+    ],
+    [
+      "42110144",
+      "Mohammed Yasser Al"
+    ],
+    [
+      "42110202",
+      "Ahmed Mohamed Ali"
+    ],
+    [
+      "42110229",
+      "Abdullatif Mohammed Yousef"
+    ],
+    [
+      "42110236",
+      "Mohammed Shaaban Mohammed"
+    ],
+    [
+      "42110263",
+      "Mohamed El Sayed"
+    ],
+    [
+      "42110278",
+      "Ibrahim Osama Ibrahim"
+    ],
+    [
+      "42110297",
+      "Nada Mohammed Taha"
+    ],
+    [
+      "42110303",
+      "Saif El Din"
+    ],
+    [
+      "42110312",
+      "Samy Hany Ramadan"
+    ],
+    [
+      "42110335",
+      "Mohamed Abdel Razek"
+    ],
+    [
+      "42110357",
+      "Mohamed Ashraf Hamed"
+    ],
+    [
+      "42110412",
+      "Ziad Mohamed El"
+    ],
+    [
+      "42110504",
+      "Nourhan Mahmoud Mohamed"
+    ],
+    [
+      "42120001",
+      "mohamed emad"
+    ],
+    [
+      "42120006",
+      "abd el rahman"
+    ],
+    [
+      "42210010",
+      "Ibrahim Shedeed Abdel"
+    ],
+    [
+      "42210020",
+      "Mohamed Wajih Yousef"
+    ],
+    [
+      "42210025",
+      "Omar Hany Yousry"
+    ],
+    [
+      "42210040",
+      "Felobater Ayman Nady"
+    ],
+    [
+      "42210056",
+      "Abdallah Taha Arfaa"
+    ],
+    [
+      "42210079",
+      "Malak Saeed Mohamed"
+    ],
+    [
+      "42210087",
+      "Youssef Mahmoud Farouk"
+    ],
+    [
+      "42210097",
+      "Mohamed Ahmed Sayed"
+    ],
+    [
+      "42210143",
+      "Mohamad Tariq Esmael"
+    ],
+    [
+      "42210151",
+      "Amany Mahmoud Abdelaty"
+    ],
+    [
+      "42210160",
+      "Ahmed Hossam Eldin"
+    ],
+    [
+      "42210161",
+      "Mostafa Mohamed Ali"
+    ],
+    [
+      "42210168",
+      "Ahmed Mohamed Osman"
+    ],
+    [
+      "42210169",
+      "Saif Mohamed Mahmoud"
+    ],
+    [
+      "42210175",
+      "Noureldin Magdy Hassan"
+    ],
+    [
+      "42210187",
+      "Hassan Mohamed Ahmed"
+    ],
+    [
+      "42210190",
+      "Basil Mohamed Elsaied"
+    ],
+    [
+      "42210213",
+      "Eyad Ashraf Mohamed"
+    ],
+    [
+      "42210229",
+      "Ali Salem Ibrahim"
+    ],
+    [
+      "42210234",
+      "Eslam Abd Elaziz"
+    ],
+    [
+      "42210254",
+      "Ziad Saeed Yahya"
+    ],
+    [
+      "42210256",
+      "Ayman Emad Eldeen"
+    ],
+    [
+      "42210269",
+      "Muhammad Abd Al-Nabi"
+    ],
+    [
+      "42210275",
+      "Samuel Malak Ibrahim"
+    ],
+    [
+      "42210276",
+      "Moustafa Emad Attia"
+    ],
+    [
+      "42210277",
+      "Saif Emad El"
+    ],
+    [
+      "42210278",
+      "Zyead Gomaa Chaaban"
+    ],
+    [
+      "42210292",
+      "Mayar Shawkat Shebl"
+    ],
+    [
+      "42210293",
+      "Ahmed Raafat Ahmed"
+    ],
+    [
+      "42210300",
+      "Basmala Waleed Ahmed"
+    ],
+    [
+      "42210306",
+      "Ahmed Hesham Ahmed"
+    ],
+    [
+      "42210309",
+      "Ahmed Gamal Mostafa"
+    ],
+    [
+      "42210313",
+      "Abdulla Saeed Hassan"
+    ],
+    [
+      "42210323",
+      "Rana Ahmed Abuhaswa"
+    ],
+    [
+      "42210329",
+      "Youssef Khaled Ismail"
+    ],
+    [
+      "42210333",
+      "Ahmed Mohamed Maher"
+    ],
+    [
+      "42210347",
+      "Saifeldin Ehab Ahmed"
+    ],
+    [
+      "42210349",
+      "Omnia Ibrahim Ahmed"
+    ],
+    [
+      "42210351",
+      "Omar Hamid Zaki"
+    ],
+    [
+      "42210353",
+      "Mohamed Ramadan Shams"
+    ],
+    [
+      "42210355",
+      "Mentalla Ahmed Nageib"
+    ],
+    [
+      "42210360",
+      "Abdelrahman Yasser Ibrahim"
+    ],
+    [
+      "42210361",
+      "Mostafa Atef Mohamed"
+    ],
+    [
+      "42310048",
+      "nourhan khaled mohamed"
+    ]
+  ],
+  "MAT203": [
+    [
+      "41810319",
+      "Ahmed Mohamed Mostafa"
+    ],
+    [
+      "41910064",
+      "Magdy Hany Mahmoud"
+    ],
+    [
+      "41910083",
+      "Youssef Abd El.Ghafour"
+    ],
+    [
+      "41910293",
+      "Mahmoud Sobhy Mahmoud"
+    ],
+    [
+      "42010343",
+      "Ahmed abdelgalil abdelgalil"
+    ],
+    [
+      "42110164",
+      "Hassan Khader Ahmed"
+    ],
+    [
+      "42210086",
+      "Yousef Gamal Mostafa"
+    ],
+    [
+      "42210111",
+      "Ahmed Madeh Kassem"
+    ],
+    [
+      "42210159",
+      "Mohamed Nasser Mohamed"
+    ],
+    [
+      "42210166",
+      "Zakaria Fathy Zakaria"
+    ],
+    [
+      "42210173",
+      "Hossam Eldin Mostafa"
+    ],
+    [
+      "42210266",
+      "Mahmoud Anwar Shaker"
+    ],
+    [
+      "42310041",
+      "Ahmed Nader Mohsen"
+    ]
+  ],
+  "CNE401": [
+    [
+      "41810329",
+      "Mohamed Abdel.nabi Mohamed"
+    ]
+  ],
+  "SWE303": [
+    [
+      "41810330",
+      "Mohamed Essam AlDin"
+    ],
+    [
+      "41910182",
+      "Rawan Amgad Hamza"
+    ],
+    [
+      "41910328",
+      "Omar Ashraf Abd"
+    ],
+    [
+      "41920019",
+      "Mohamed Saad Ibrahim"
+    ],
+    [
+      "42010121",
+      "Nada hesham saad"
+    ],
+    [
+      "42010146",
+      "Ziad Akram"
+    ],
+    [
+      "42010211",
+      "nada eid shaban"
+    ],
+    [
+      "42010242",
+      "kerolos nabil abied"
+    ],
+    [
+      "42010311",
+      "Abdelrahman taha Mohamed"
+    ],
+    [
+      "42010334",
+      "Mohamed Tarek Maamoun"
+    ],
+    [
+      "42010375",
+      "Kareem Ahmed Fathy"
+    ],
+    [
+      "42010520",
+      "Youssef Ashraf Mohamed"
+    ],
+    [
+      "42010588",
+      "Marwan Mabrook"
+    ],
+    [
+      "42010591",
+      "Ahmed Yasser"
+    ],
+    [
+      "42010657",
+      "Alaa Osama Sayed"
+    ],
+    [
+      "42010695",
+      "Mohamed Mahmoud Mohamed"
+    ],
+    [
+      "42010737",
+      "Selwan Mohamed Nagah"
+    ],
+    [
+      "42110058",
+      "Mohamed Faraj Abdel"
+    ],
+    [
+      "42110097",
+      "Abdul Rahman Ali"
+    ],
+    [
+      "42110298",
+      "Mohammed Abdul Aziz"
+    ],
+    [
+      "42110386",
+      "Ahmed Al -"
+    ],
+    [
+      "42110422",
+      "Yousef Ashraf Mohamed"
+    ],
+    [
+      "42110481",
+      "Muhammed Khaled Abdel-Rahman"
+    ],
+    [
+      "42110513",
+      "Ahmed Waleed Ahmed"
+    ],
+    [
+      "42210080",
+      "Zeyad Ahmed Ragab"
+    ]
+  ],
+  "CNE409": [
+    [
+      "41820001",
+      "Abdelrahman Kamal Hussien"
+    ]
+  ],
+  "CSC207": [
+    [
+      "41820001",
+      "Abdelrahman Kamal Hussien"
+    ],
+    [
+      "41910210",
+      "Zyad Moustafa"
+    ],
+    [
+      "41910227",
+      "Mahmoud Wael Mohamed"
+    ],
+    [
+      "41910270",
+      "Ibrahim Emam Mahmoud"
+    ],
+    [
+      "41920002",
+      "Kerolous Waguih Thabet"
+    ],
+    [
+      "42010004",
+      "Mohammed Ahmed Abdelaziz"
+    ],
+    [
+      "42010489",
+      "Karim Osama"
+    ],
+    [
+      "42010580",
+      "Mohamed Tallat"
+    ],
+    [
+      "42010618",
+      "Sohayb Adel Abdel"
+    ],
+    [
+      "42010661",
+      "Ahmed Hany Abdel"
+    ],
+    [
+      "42010755",
+      "Abdallah Hegazy Abdelhakem"
+    ],
+    [
+      "42110002",
+      "Ryan Mohammed Ayman"
+    ],
+    [
+      "42110013",
+      "Omar Hisham Fathi"
+    ],
+    [
+      "42110056",
+      "Mahmoud Mokhtar Mohamed"
+    ],
+    [
+      "42110069",
+      "Mahmoud Ahmed Mahmoud"
+    ],
+    [
+      "42110175",
+      "Gamal Mohammed Abdullah"
+    ],
+    [
+      "42110230",
+      "Anton Amjad Waheb"
+    ],
+    [
+      "42110242",
+      "Kerolos Nashed Mikhail"
+    ],
+    [
+      "42110302",
+      "Mohamed Mahmoud Abdel"
+    ],
+    [
+      "42110341",
+      "Ahmed Wael Ahmed"
+    ],
+    [
+      "42110373",
+      "Alaa Ayman Mohamed"
+    ],
+    [
+      "42110404",
+      "Mohamed Emad Mahmoud"
+    ],
+    [
+      "42110419",
+      "Yousef Mohamed Gharib"
+    ],
+    [
+      "42110483",
+      "Eyad omar alansary"
+    ],
+    [
+      "42120002",
+      "mohamed ahmed mahrous"
+    ],
+    [
+      "42120015",
+      "Marwan Ahmed Mosaad"
+    ],
+    [
+      "42210163",
+      "Mohamed Mahmoud Badr"
+    ],
+    [
+      "42210181",
+      "Omar Maged Gomaa"
+    ],
+    [
+      "42210216",
+      "Malak Ahmed Samy"
+    ],
+    [
+      "42210218",
+      "Mahmoud Medhat Mahmoud"
+    ],
+    [
+      "42210274",
+      "Fady Emmanuel Wagih"
+    ],
+    [
+      "42210291",
+      "Mostafa Osama Attia"
+    ],
+    [
+      "42210299",
+      "Mohamed Baligh Hamdy"
+    ],
+    [
+      "42210314",
+      "Omar Eid Said"
+    ],
+    [
+      "42310502",
+      "Fam Mina luis"
+    ]
+  ],
+  "CNE406": [
+    [
+      "41910016",
+      "Mohamed Hemdan Zidan"
+    ]
+  ],
+  "CSC205": [
+    [
+      "41910064",
+      "Magdy Hany Mahmoud"
+    ],
+    [
+      "42110115",
+      "Abdulrahman Reda Abdulhadi"
+    ],
+    [
+      "42110202",
+      "Ahmed Mohamed Ali"
+    ],
+    [
+      "42120006",
+      "abd el rahman"
+    ],
+    [
+      "42210079",
+      "Malak Saeed Mohamed"
+    ],
+    [
+      "42210143",
+      "Mohamad Tariq Esmael"
+    ],
+    [
+      "42210151",
+      "Amany Mahmoud Abdelaty"
+    ],
+    [
+      "42210161",
+      "Mostafa Mohamed Ali"
+    ],
+    [
+      "42210169",
+      "Saif Mohamed Mahmoud"
+    ],
+    [
+      "42210175",
+      "Noureldin Magdy Hassan"
+    ],
+    [
+      "42210190",
+      "Basil Mohamed Elsaied"
+    ],
+    [
+      "42210213",
+      "Eyad Ashraf Mohamed"
+    ],
+    [
+      "42210226",
+      "Nader Adel Mohamed"
+    ],
+    [
+      "42210254",
+      "Ziad Saeed Yahya"
+    ],
+    [
+      "42210293",
+      "Ahmed Raafat Ahmed"
+    ],
+    [
+      "42210299",
+      "Mohamed Baligh Hamdy"
+    ],
+    [
+      "42210300",
+      "Basmala Waleed Ahmed"
+    ],
+    [
+      "42210309",
+      "Ahmed Gamal Mostafa"
+    ],
+    [
+      "42210323",
+      "Rana Ahmed Abuhaswa"
+    ],
+    [
+      "42210349",
+      "Omnia Ibrahim Ahmed"
+    ]
+  ],
+  "AIN403": [
+    [
+      "41910077",
+      "Ahmed Mohsen El.Sayed"
+    ],
+    [
+      "41910182",
+      "Rawan Amgad Hamza"
+    ],
+    [
+      "41910200",
+      "Seif El.Din Akram"
+    ],
+    [
+      "42010191",
+      "kamel mostafa kamel"
+    ],
+    [
+      "42010520",
+      "Youssef Ashraf Mohamed"
+    ],
+    [
+      "42010591",
+      "Ahmed Yasser"
+    ],
+    [
+      "42010717",
+      "Marwan Mahmoud Mohamed"
+    ],
+    [
+      "42020010",
+      "Omar Khaled Fouad"
+    ],
+    [
+      "42110014",
+      "Maryam Mohammed Ibrahim"
+    ],
+    [
+      "42110058",
+      "Mohamed Faraj Abdel"
+    ],
+    [
+      "42110060",
+      "Mustafa Mahmoud Mustafa"
+    ],
+    [
+      "42110097",
+      "Abdul Rahman Ali"
+    ],
+    [
+      "42110298",
+      "Mohammed Abdul Aziz"
+    ],
+    [
+      "42110359",
+      "Abdulrahman Essam Hassan"
+    ],
+    [
+      "42110384",
+      "Mohammed Kahlawi Abdel"
+    ],
+    [
+      "42110386",
+      "Ahmed Al -"
+    ],
+    [
+      "42110405",
+      "Ahmed Hussein Jouda"
+    ],
+    [
+      "42110434",
+      "Heba Refaat Hassan"
+    ],
+    [
+      "42110513",
+      "Ahmed Waleed Ahmed"
+    ]
+  ],
+  "SWE408": [
+    [
+      "41910109",
+      "Rawan Mohamed Fouad"
+    ],
+    [
+      "41910114",
+      "Kerolos Youssef Anwer"
+    ],
+    [
+      "42010215",
+      "Hamsa Medhat"
+    ],
+    [
+      "42010688",
+      "Momen Ahmed Ali"
+    ]
+  ],
+  "AIN405": [
+    [
+      "41910127",
+      "Mohamed Tarek Ismael"
+    ]
+  ],
+  "MAT101": [
+    [
+      "41910252",
+      "Ahmed Mohamed El.Sayed"
+    ],
+    [
+      "42120009",
+      "Martina Mamdouh Lamie"
+    ],
+    [
+      "42120017",
+      "Youssef Ezzat El-Sayed"
+    ],
+    [
+      "42210242",
+      "Mohamed Mohsen Ahmed"
+    ],
+    [
+      "42210277",
+      "Saif Emad El"
+    ],
+    [
+      "42210353",
+      "Mohamed Ramadan Shams"
+    ],
+    [
+      "42210361",
+      "Mostafa Atef Mohamed"
+    ],
+    [
+      "42210376",
+      "Mahmoud Fadel Ahmed"
+    ]
+  ],
+  "MAT201": [
+    [
+      "41910270",
+      "Ibrahim Emam Mahmoud"
+    ]
+  ],
+  "AIN414": [
+    [
+      "41920015",
+      "Ahmed Naser Saad"
+    ]
+  ],
+  "CNE410": [
+    [
+      "41920024",
+      "Mahmoud Fawzy Mohamed"
+    ]
+  ],
+  "CSC302": [
+    [
+      "42010037",
+      "mahmoud hossam eldin"
+    ],
+    [
+      "42010618",
+      "Sohayb Adel Abdel"
+    ],
+    [
+      "42010661",
+      "Ahmed Hany Abdel"
+    ]
+  ],
+  "SWE404": [
+    [
+      "42010148",
+      "Omar Amir Mohamed"
+    ]
+  ],
+  "CNE402": [
+    [
+      "42010240",
+      "omar khaled mohamed"
+    ]
+  ],
+  "MAT102": [
+    [
+      "42010289",
+      "Ammar Samy Abdelkader"
+    ],
+    [
+      "42110311",
+      "Nader Ahmed Ahmed"
+    ],
+    [
+      "42110480",
+      "Saif eldin waled"
+    ],
+    [
+      "42210089",
+      "Mohamed Abdelmomen Abdelghany"
+    ],
+    [
+      "42210120",
+      "Ali Ahmed Samir"
+    ],
+    [
+      "42210242",
+      "Mohamed Mohsen Ahmed"
+    ]
+  ],
+  "CSC201": [
+    [
+      "42010289",
+      "Ammar Samy Abdelkader"
+    ],
+    [
+      "42010324",
+      "elamir ahmed hamed"
+    ],
+    [
+      "42110199",
+      "Mustafa Ezzat Salah"
+    ],
+    [
+      "42110379",
+      "Ayad Fouad Masailhi"
+    ],
+    [
+      "42110486",
+      "Amr Elsayed Mohamed"
+    ],
+    [
+      "42210158",
+      "Amr Alaa Fikery"
+    ],
+    [
+      "42210284",
+      "Mohamed Salah Mohamed"
+    ],
+    [
+      "42210319",
+      "Ahmed Abdalla Salem"
+    ],
+    [
+      "42210328",
+      "Omar Ahmed Farghaly"
+    ],
+    [
+      "42210378",
+      "Moaz Ayman Elyas"
+    ],
+    [
+      "42310541",
+      "Habiba Ali Mahmoud"
+    ]
+  ],
+  "UNI102": [
+    [
+      "42010612",
+      "Amro Ismail"
+    ]
+  ],
+  "SWE406": [
+    [
+      "42010688",
+      "Momen Ahmed Ali"
+    ]
+  ],
+  "MT101": [
+    [
+      "42310015",
+      "Sherif ashraf yehia"
+    ],
+    [
+      "42310017",
+      "Abshira yusuf mohamed"
+    ],
+    [
+      "42310031",
+      "hazim eadil asmeeil"
+    ],
+    [
+      "42310034",
+      "Mahmoud Hisham AbdElmonaem"
+    ],
+    [
+      "42310046",
+      "Abdalla Mahmoud"
+    ],
+    [
+      "42310076",
+      "Steven emad ezzat"
+    ],
+    [
+      "42310108",
+      "Mohamed Ehab Bashir"
+    ],
+    [
+      "42310126",
+      "Youssef Moustafa Kamel"
+    ],
+    [
+      "42310191",
+      "Ahmed mahmoud mohamed"
+    ],
+    [
+      "42310197",
+      "Mohamed Ahmed Salah"
+    ],
+    [
+      "42310210",
+      "Arwa waleed abdelfttah"
+    ],
+    [
+      "42310211",
+      "Omar Sahir Fahmi"
+    ],
+    [
+      "42310223",
+      "Amr Hany Samy"
+    ],
+    [
+      "42310241",
+      "Marwan Samy El-sayed"
+    ],
+    [
+      "42310290",
+      "Mo'men Ramadan eid"
+    ],
+    [
+      "42310298",
+      "Aya ehab Ali"
+    ],
+    [
+      "42310304",
+      "Mario emad naeem"
+    ],
+    [
+      "42310333",
+      "Mohamed wael mahdy"
+    ],
+    [
+      "42310334",
+      "Mazen Rida Moh\u00e2med"
+    ],
+    [
+      "42310336",
+      "Youssef Mubarak"
+    ],
+    [
+      "42310337",
+      "Youssef usama nabeh"
+    ],
+    [
+      "42310365",
+      "Ahmed Wael lotfy"
+    ],
+    [
+      "42310424",
+      "Saaed medhat saeed"
+    ],
+    [
+      "42310425",
+      "youssef wael mohamed"
+    ],
+    [
+      "42310457",
+      "Rawan ibrahim abd"
+    ],
+    [
+      "42310479",
+      "Marym Mohamed Alsaid"
+    ],
+    [
+      "42310509",
+      "Mahmoud tarek mahmoud"
+    ],
+    [
+      "42310510",
+      "Hazem Magdi Ali"
+    ],
+    [
+      "42310516",
+      "Tasneem Essam Refaat"
+    ],
+    [
+      "42310527",
+      "Mohamed Wael Mohamed"
+    ],
+    [
+      "42310533",
+      "Aziz Sayed Fahmy"
+    ],
+    [
+      "42310544",
+      "Junior nabil obeid"
+    ],
+    [
+      "42310566",
+      "Mahmoud Alaa"
+    ],
+    [
+      "42310571",
+      "Youssif tyssyr ali"
+    ],
+    [
+      "42310577",
+      "Amr Khaled"
+    ],
+    [
+      "42320001",
+      "Mohamed Metwally Mohamed"
+    ],
+    [
+      "42320002",
+      "Mohamed Aboelfetoh"
+    ],
+    [
+      "42320003",
+      "Raghad Ali Abdelaziz"
+    ],
+    [
+      "42320004",
+      "Zyad Ragab Mahmoud"
+    ],
+    [
+      "42320005",
+      "Mohamed Ismail Mohamed"
+    ],
+    [
+      "42320006",
+      "Adham sherif Ibrahim"
+    ],
+    [
+      "42320007",
+      "Amina ahmed said"
+    ],
+    [
+      "42320008",
+      "Hager Mohamed Sayed"
+    ],
+    [
+      "42320009",
+      "Amr Gamal Aldeen"
+    ],
+    [
+      "42320010",
+      "Habiba Mostafa Mohamed"
+    ],
+    [
+      "42320011",
+      "Marwa abdelkader zaky"
+    ],
+    [
+      "42320012",
+      "Ahmed Adel Hassan"
+    ],
+    [
+      "42320013",
+      "Sara Atef Elsaber"
+    ],
+    [
+      "42320014",
+      "Mohamed Ahmed Mohamed"
+    ],
+    [
+      "42320015",
+      "Khaled Hussien Mahmoud"
+    ],
+    [
+      "42320016",
+      "Ahmed Ramdan Abdelal"
+    ],
+    [
+      "42320017",
+      "Malak Waleed Mohamed"
+    ],
+    [
+      "42320019",
+      "Aws Ahmed Abdo"
+    ]
+  ],
+  "MT102": [
+    [
+      "42310015",
+      "Sherif ashraf yehia"
+    ],
+    [
+      "42310017",
+      "Abshira yusuf mohamed"
+    ],
+    [
+      "42310034",
+      "Mahmoud Hisham AbdElmonaem"
+    ],
+    [
+      "42310076",
+      "Steven emad ezzat"
+    ],
+    [
+      "42310135",
+      "Mohamed ahmed yousef"
+    ],
+    [
+      "42310160",
+      "Antonios Gaper Ibrahim"
+    ],
+    [
+      "42310196",
+      "Nabil Ahmed Nabil"
+    ],
+    [
+      "42310197",
+      "Mohamed Ahmed Salah"
+    ],
+    [
+      "42310211",
+      "Omar Sahir Fahmi"
+    ],
+    [
+      "42310241",
+      "Marwan Samy El-sayed"
+    ],
+    [
+      "42310309",
+      "Youssef Mohammed Alfateh"
+    ],
+    [
+      "42310355",
+      "Mohamed Moamen Sayed"
+    ],
+    [
+      "42310363",
+      "Mohamed sherif qorany"
+    ],
+    [
+      "42310574",
+      "Zeyad Ahmed"
+    ]
+  ],
+  "CS104": [
+    [
+      "42310028",
+      "Mahmoud mohamed fawzy"
+    ],
+    [
+      "42310035",
+      "Mohamed Ahmed Mohamed"
+    ],
+    [
+      "42310043",
+      "Abdelrahman mohamed gaber"
+    ],
+    [
+      "42310046",
+      "Abdalla Mahmoud"
+    ],
+    [
+      "42310049",
+      "Sara Osama Ibrahim"
+    ],
+    [
+      "42310126",
+      "Youssef Moustafa Kamel"
+    ],
+    [
+      "42310163",
+      "Nancy Waheed Ahmed"
+    ],
+    [
+      "42310190",
+      "Ahmed ElHassan Ibrahim"
+    ],
+    [
+      "42310198",
+      "Zeyad Elsayed Ibrahim"
+    ],
+    [
+      "42310209",
+      "Asmaa Mokhtar Mansour"
+    ],
+    [
+      "42310210",
+      "Arwa waleed abdelfttah"
+    ],
+    [
+      "42310229",
+      "Ahmed ashraf samih"
+    ],
+    [
+      "42310308",
+      "Mazen mahmoud abdellfatah"
+    ],
+    [
+      "42310333",
+      "Mohamed wael mahdy"
+    ],
+    [
+      "42310334",
+      "Mazen Rida Moh\u00e2med"
+    ],
+    [
+      "42310336",
+      "Youssef Mubarak"
+    ],
+    [
+      "42310337",
+      "Youssef usama nabeh"
+    ],
+    [
+      "42310356",
+      "Abdallah Walid ahmed"
+    ],
+    [
+      "42310407",
+      "Amr Hassan"
+    ],
+    [
+      "42310424",
+      "Saaed medhat saeed"
+    ],
+    [
+      "42310425",
+      "youssef wael mohamed"
+    ],
+    [
+      "42310439",
+      "Mohamed alaamohamed zaky"
+    ],
+    [
+      "42310442",
+      "salma Ibrahim Mohamed"
+    ],
+    [
+      "42310446",
+      "Salah Mohamed Salah"
+    ],
+    [
+      "42310450",
+      "Mahmoud Ahmed Mahmoud"
+    ],
+    [
+      "42310457",
+      "Rawan ibrahim abd"
+    ],
+    [
+      "42310458",
+      "Ahmed khaled ahmed"
+    ],
+    [
+      "42310470",
+      "hagar ehabshaban"
+    ],
+    [
+      "42310486",
+      "Mohamed abdelmomen abas"
+    ],
+    [
+      "42310509",
+      "Mahmoud tarek mahmoud"
+    ],
+    [
+      "42310510",
+      "Hazem Magdi Ali"
+    ],
+    [
+      "42310516",
+      "Tasneem Essam Refaat"
+    ],
+    [
+      "42310527",
+      "Mohamed Wael Mohamed"
+    ],
+    [
+      "42310533",
+      "Aziz Sayed Fahmy"
+    ],
+    [
+      "42310565",
+      "MARK ISAAC WADEA"
+    ],
+    [
+      "42310575",
+      "Osama Samir"
+    ],
+    [
+      "42310577",
+      "Amr Khaled"
+    ],
+    [
+      "42320001",
+      "Mohamed Metwally Mohamed"
+    ],
+    [
+      "42320002",
+      "Mohamed Aboelfetoh"
+    ],
+    [
+      "42320003",
+      "Raghad Ali Abdelaziz"
+    ],
+    [
+      "42320004",
+      "Zyad Ragab Mahmoud"
+    ],
+    [
+      "42320005",
+      "Mohamed Ismail Mohamed"
+    ],
+    [
+      "42320006",
+      "Adham sherif Ibrahim"
+    ],
+    [
+      "42320007",
+      "Amina ahmed said"
+    ],
+    [
+      "42320008",
+      "Hager Mohamed Sayed"
+    ],
+    [
+      "42320009",
+      "Amr Gamal Aldeen"
+    ],
+    [
+      "42320010",
+      "Habiba Mostafa Mohamed"
+    ],
+    [
+      "42320011",
+      "Marwa abdelkader zaky"
+    ],
+    [
+      "42320012",
+      "Ahmed Adel Hassan"
+    ],
+    [
+      "42320013",
+      "Sara Atef Elsaber"
+    ],
+    [
+      "42320014",
+      "Mohamed Ahmed Mohamed"
+    ],
+    [
+      "42320015",
+      "Khaled Hussien Mahmoud"
+    ],
+    [
+      "42320016",
+      "Ahmed Ramdan Abdelal"
+    ],
+    [
+      "42320017",
+      "Malak Waleed Mohamed"
+    ],
+    [
+      "42320019",
+      "Aws Ahmed Abdo"
+    ]
+  ],
+  "EC101": [
+    [
+      "42310028",
+      "Mahmoud mohamed fawzy"
+    ],
+    [
+      "42310031",
+      "hazim eadil asmeeil"
+    ],
+    [
+      "42310035",
+      "Mohamed Ahmed Mohamed"
+    ],
+    [
+      "42310043",
+      "Abdelrahman mohamed gaber"
+    ],
+    [
+      "42310046",
+      "Abdalla Mahmoud"
+    ],
+    [
+      "42310049",
+      "Sara Osama Ibrahim"
+    ],
+    [
+      "42310108",
+      "Mohamed Ehab Bashir"
+    ],
+    [
+      "42310172",
+      "abdelrahman Mohamed hassan"
+    ],
+    [
+      "42310198",
+      "Zeyad Elsayed Ibrahim"
+    ],
+    [
+      "42310226",
+      "Yassin Osama Mohamed"
+    ],
+    [
+      "42310298",
+      "Aya ehab Ali"
+    ],
+    [
+      "42310334",
+      "Mazen Rida Moh\u00e2med"
+    ],
+    [
+      "42310337",
+      "Youssef usama nabeh"
+    ],
+    [
+      "42310365",
+      "Ahmed Wael lotfy"
+    ],
+    [
+      "42310396",
+      "Youssif Mohamed Rashwan"
+    ],
+    [
+      "42310410",
+      "Bilal Ahmed Abdel"
+    ],
+    [
+      "42310446",
+      "Salah Mohamed Salah"
+    ],
+    [
+      "42310457",
+      "Rawan ibrahim abd"
+    ],
+    [
+      "42310470",
+      "hagar ehabshaban"
+    ],
+    [
+      "42310481",
+      "Somaya abdelmohy torad"
+    ],
+    [
+      "42310509",
+      "Mahmoud tarek mahmoud"
+    ],
+    [
+      "42310510",
+      "Hazem Magdi Ali"
+    ],
+    [
+      "42310511",
+      "YOUSSOF OSAMA ANWAR"
+    ],
+    [
+      "42310533",
+      "Aziz Sayed Fahmy"
+    ],
+    [
+      "42310565",
+      "MARK ISAAC WADEA"
+    ],
+    [
+      "42310566",
+      "Mahmoud Alaa"
+    ],
+    [
+      "42310575",
+      "Osama Samir"
+    ]
+  ],
+  "PH101": [
+    [
+      "42310043",
+      "Abdelrahman mohamed gaber"
+    ],
+    [
+      "42310191",
+      "Ahmed mahmoud mohamed"
+    ],
+    [
+      "42310198",
+      "Zeyad Elsayed Ibrahim"
+    ],
+    [
+      "42310223",
+      "Amr Hany Samy"
+    ],
+    [
+      "42310226",
+      "Yassin Osama Mohamed"
+    ],
+    [
+      "42310286",
+      "Nadia gomaa mostafa"
+    ],
+    [
+      "42310290",
+      "Mo'men Ramadan eid"
+    ],
+    [
+      "42310304",
+      "Mario emad naeem"
+    ],
+    [
+      "42310345",
+      "Mohamed Wael Ramadan"
+    ],
+    [
+      "42310423",
+      "Ahmed Emad Elden"
+    ],
+    [
+      "42310445",
+      "Mazen mohamed ahmed"
+    ],
+    [
+      "42310451",
+      "Maged maher salah"
+    ],
+    [
+      "42310458",
+      "Ahmed khaled ahmed"
+    ],
+    [
+      "42310551",
+      "Nagham yasser mohamed"
+    ],
+    [
+      "42310571",
+      "Youssif tyssyr ali"
+    ]
+  ],
+  "MT202": [
+    [
+      "42310087",
+      "Darin Ashraf Aly"
+    ],
+    [
+      "42310163",
+      "Nancy Waheed Ahmed"
+    ],
+    [
+      "42310308",
+      "Mazen mahmoud abdellfatah"
+    ],
+    [
+      "42310356",
+      "Abdallah Walid ahmed"
+    ],
+    [
+      "42310523",
+      "Abdelrahman Mahmoud Abouelftouh"
+    ]
+  ],
+  "MT203": [
+    [
+      "42310523",
+      "Abdelrahman Mahmoud Abouelftouh"
+    ]
+  ],
+  "HS103": [
+    [
+      "42320002",
+      "Mohamed Aboelfetoh"
+    ],
+    [
+      "42320003",
+      "Raghad Ali Abdelaziz"
+    ],
+    [
+      "42320004",
+      "Zyad Ragab Mahmoud"
+    ],
+    [
+      "42320007",
+      "Amina ahmed said"
+    ],
+    [
+      "42320008",
+      "Hager Mohamed Sayed"
+    ],
+    [
+      "42320009",
+      "Amr Gamal Aldeen"
+    ],
+    [
+      "42320010",
+      "Habiba Mostafa Mohamed"
+    ],
+    [
+      "42320011",
+      "Marwa abdelkader zaky"
+    ],
+    [
+      "42320013",
+      "Sara Atef Elsaber"
+    ],
+    [
+      "42320014",
+      "Mohamed Ahmed Mohamed"
+    ],
+    [
+      "42320017",
+      "Malak Waleed Mohamed"
+    ],
+    [
+      "42320019",
+      "Aws Ahmed Abdo"
+    ]
+  ],
+  "subjectsCount": 56,
+  "totalRegisterationCount": 1075
+}

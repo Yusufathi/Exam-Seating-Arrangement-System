@@ -1,0 +1,216 @@
+﻿{
+  "30-May-24_Thursday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1101",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 24
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE301",
+        "Course Name": "Data Communications",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE203",
+        "Course Name": "Data Communications",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CSC409",
+        "Course Name": "Machine Learning",
+        "No. of Students": 1
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1101",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 26
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 26
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "30-May-24",
+        "Day": "Thursday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 41
+      }
+    ]
+  }
+}

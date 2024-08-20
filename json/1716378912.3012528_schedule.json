@@ -1,0 +1,256 @@
+﻿{
+  "1-Jun-24_Saturday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN405",
+        "Course Name": "Deep Learning",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN405",
+        "Course Name": "Deep Learning",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN405",
+        "Course Name": "Deep Learning",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN405",
+        "Course Name": "Deep Learning",
+        "No. of Students": 12
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 28
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 28
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC205",
+        "Course Name": "Analysis and Design of Algorithms",
+        "No. of Students": 41
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1101",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC310",
+        "Course Name": "Fault Tolerance",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE301",
+        "Course Name": "Database I",
+        "No. of Students": 1
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE405",
+        "Course Name": "Software Quality Assurance",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC401",
+        "Course Name": "Formal Languages and Automata",
+        "No. of Students": 1
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "1-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "MAN101",
+        "Course Name": "Fundamentals of Management",
+        "No. of Students": 4
+      }
+    ]
+  }
+}

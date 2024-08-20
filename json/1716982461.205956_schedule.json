@@ -1,0 +1,312 @@
+﻿{
+  "3-Jun-24_Monday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1101",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1108",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "EC101",
+        "Course Name": "Electronics",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CNE101 ",
+        "Course Name": "Electronics",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CNE101 ",
+        "Course Name": "Electronics",
+        "No. of Students": 39
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1101",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT203",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 36
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "3-Jun-24",
+        "Day": "Monday",
+        "Course Code": "STA201",
+        "Course Name": "Probability and Statistics",
+        "No. of Students": 4
+      }
+    ]
+  }
+}

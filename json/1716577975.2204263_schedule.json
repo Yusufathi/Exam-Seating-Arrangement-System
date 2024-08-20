@@ -1,0 +1,120 @@
+﻿{
+  "2-Jun-24_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1212",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design ",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CNE202",
+        "Course Name": "Logic Design ",
+        "No. of Students": 42
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1208",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CNE413",
+        "Course Name": "Optical Networks",
+        "No. of Students": 30
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CNE415",
+        "Course Name": "Optical Networks",
+        "No. of Students": 4
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CSC411",
+        "Course Name": "Data Compression",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "CSC414",
+        "Course Name": "Specialized Practical Applications",
+        "No. of Students": 2
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "SWE408",
+        "Course Name": "Selected topics in Software Engineering",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "SWE408",
+        "Course Name": "Selected topics in Software Engineering",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "SWE408",
+        "Course Name": "Selected topics in Software Engineering",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "SWE408",
+        "Course Name": "Selected topics in Software Engineering",
+        "No. of Students": 41
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "SWE408",
+        "Course Name": "Selected topics in Software Engineering",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "2-Jun-24",
+        "Day": "Sunday",
+        "Course Code": "SWE411",
+        "Course Name": "Selected topics in Software Engineering",
+        "No. of Students": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+﻿{
+  "25/8/2024_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1204",
+        "Date": "25/8/2024",
+        "Day": "Sunday",
+        "Course Code": "AIN414",
+        "Course Name": "Virtual Reality ",
+        "No. of Students": 1
+      }
+    ]
+  },
+  "25/8/2025_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1204",
+        "Date": "25/8/2025",
+        "Day": "Sunday",
+        "Course Code": "CNE402",
+        "Course Name": "Parallel and Distributed Systems",
+        "No. of Students": 1
+      }
+    ]
+  },
+  "25/8/2026_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1204",
+        "Date": "25/8/2026",
+        "Day": "Sunday",
+        "Course Code": "CNE406",
+        "Course Name": "Mobile Computing",
+        "No. of Students": 1
+      }
+    ]
+  },
+  "25/8/2027_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1204",
+        "Date": "25/8/2027",
+        "Day": "Sunday",
+        "Course Code": "CNE411",
+        "Course Name": "Selected Topics in Computer Networks",
+        "No. of Students": 1
+      }
+    ]
+  },
+  "25/8/2028_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1204",
+        "Date": "25/8/2028",
+        "Day": "Sunday",
+        "Course Code": "UNI102",
+        "Course Name": "Presentation and Communication Skills",
+        "No. of Students": 1
+      }
+    ]
+  },
+  "25/8/2029_Sunday": {
+    "12:30-2:30": [
+      {
+        "Room(s)": "1204",
+        "Date": "25/8/2029",
+        "Day": "Sunday",
+        "Course Code": "CSC303",
+        "Course Name": "Introduction to Artificial Intelligence",
+        "No. of Students": 20
+      }
+    ]
+  },
+  "25/8/2031_Sunday": {
+    "12:30-2:30": [
+      {
+        "Room(s)": "1206",
+        "Date": "25/8/2031",
+        "Day": "Sunday",
+        "Course Code": "PHY101",
+        "Course Name": "Physics",
+        "No. of Students": 25
+      }
+    ]
+  },
+  "25/8/2032_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1208",
+        "Date": "25/8/2032",
+        "Day": "Sunday",
+        "Course Code": "CNE308",
+        "Course Name": "Information and Networks Security",
+        "No. of Students": 28
+      }
+    ]
+  },
+  "25/8/2033_Sunday": {
+    "12:30-2:30": [
+      {
+        "Room(s)": "1208",
+        "Date": "25/8/2033",
+        "Day": "Sunday",
+        "Course Code": "CSC207",
+        "Course Name": "Event-Driven and Reactive Programming",
+        "No. of Students": 35
+      }
+    ]
+  },
+  "25/8/2034_Sunday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1216",
+        "Date": "25/8/2034",
+        "Day": "Sunday",
+        "Course Code": "HS103",
+        "Course Name": "Critical Thinking",
+        "No. of Students": 23
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+﻿Day,Date,Time,Level,Course Code,Course Name,Instructor,No. of Students,Required No. of Proctors,Room(s),No. of Students/ Room,No. of proctors / Room
+Sunday,2-Jun-24,10:00 - 12:00,2,CNE202,Logic Design ,Dr. A. Emara,114,6,1212,15,1
+Sunday,2-Jun-24,10:00 - 12:00,2,CNE202,Logic Design ,Dr. A. Emara,114,6,1225,16,1
+Sunday,2-Jun-24,10:00 - 12:00,2,CNE202,Logic Design ,Dr. A. Emara,114,6,G2-4011,41,2
+Sunday,2-Jun-24,10:00 - 12:00,2,CNE202,Logic Design ,Dr. A. Emara,114,6,Hall 8-4238,42,2
+Sunday,2-Jun-24,12:30-2:30,4-CNE,CNE413,Optical Networks,Dr. A. Emara,30,10,1208,30,2
+Sunday,2-Jun-24,12:30-2:30,4-CNE,CNE415,Optical Networks,Dr. A. Emara,4,10,1208,4,2
+Sunday,2-Jun-24,12:30-2:30,4-CS,CSC411,Data Compression,Dr. Marian,13,10,1117,13,1
+Sunday,2-Jun-24,12:30-2:30,4-CS,CSC414,Specialized Practical Applications,Dr. Marian,2,10,1117,2,1
+Sunday,2-Jun-24,12:30-2:30,4-SWE,SWE408,Selected topics in Software Engineering,Dr. Mervat,129,10,1217,16,1
+Sunday,2-Jun-24,12:30-2:30,4-SWE,SWE408,Selected topics in Software Engineering,Dr. Mervat,129,10,1218,16,1
+Sunday,2-Jun-24,12:30-2:30,4-SWE,SWE408,Selected topics in Software Engineering,Dr. Mervat,129,10,1225,16,1
+Sunday,2-Jun-24,12:30-2:30,4-SWE,SWE408,Selected topics in Software Engineering,Dr. Mervat,129,10,G2-4011,41,2
+Sunday,2-Jun-24,12:30-2:30,4-SWE,SWE408,Selected topics in Software Engineering,Dr. Mervat,129,10,Hall 8-4238,40,2
+Sunday,2-Jun-24,12:30-2:30,4-SWE,SWE411,Selected topics in Software Engineering,Dr. Mervat,1,10,Hall 8-4238,1,2

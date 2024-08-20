@@ -1,0 +1,27 @@
+﻿Day,Date,Time,Level,Course Code,Course Name,Instructor,No. of Students,Required No. of Proctors,Room(s),No. of Students/ Room,No. of proctors / Room
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1101,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1115,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1117,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1146,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1206,24,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1208,40,2
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1212,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1215,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1216,40,2
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1217,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1218,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1225,15,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,1310,13,1
+Thursday,30-May-24,10:00-12:00,2,CNE301,Data Communications,Dr. Tarek,2,19,1310,2,1
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,G2-4011,41,2
+Thursday,30-May-24,10:00-12:00,2,CNE203,Data Communications,Dr. Tarek,334,19,Hall 8-4238,41,2
+Thursday,30-May-24,10:00-12:00,Self-study,CSC409,Machine Learning,Prof. Dina,1,19,1310,1,1
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1101,16,1
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1204,26,1
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1206,26,1
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1208,40,2
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1216,40,2
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1217,16,1
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1218,15,1
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,1225,15,1
+Thursday,30-May-24,12:30 - 2:30,3,CNE308,Information and Networks Security,Dr. El-Kony,235,12,G2-4011,41,2

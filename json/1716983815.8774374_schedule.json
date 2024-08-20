@@ -1,0 +1,264 @@
+﻿{
+  "8-Jun-24_Saturday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1108",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 26
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 26
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 39
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 40
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1208",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CNE409",
+        "Course Name": "Internetworking",
+        "No. of Students": 1
+      },
+      {
+        "Room(s)": "1101",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 12
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 20
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 20
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CNE406",
+        "Course Name": "Mobile Computing",
+        "No. of Students": 31
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "CSC407",
+        "Course Name": "Perception and computer vision",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "8-Jun-24",
+        "Day": "Saturday",
+        "Course Code": "SWE408",
+        "Course Name": "Software Project Management",
+        "No. of Students": 2
+      }
+    ]
+  }
+}

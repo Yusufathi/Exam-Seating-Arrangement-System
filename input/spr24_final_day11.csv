@@ -1,0 +1,32 @@
+﻿Day,Date,Time,Level,Course Code,Course Name,Instructor,No. of Students,Required No. of Proctors,Room(s),No. of Students/ Room,No. of proctors / Room
+Tuesday,11-Jun-24,10:00 - 12:00,1,CS102,Structured programming,Dr. Alshaimaa,72,12,1101,15,1
+Tuesday,11-Jun-24,10:00 - 12:00,1,CS102,Structured programming,Dr. Alshaimaa,72,12,1115,15,1
+Tuesday,11-Jun-24,10:00 - 12:00,1,CS102,Structured programming,Dr. Alshaimaa,72,12,1146,13,1
+Tuesday,11-Jun-24,10:00 - 12:00,1,CS102,Structured programming,Dr. Alshaimaa,72,12,1212,14,1
+Tuesday,11-Jun-24,10:00 - 12:00,1,CS102,Structured programming,Dr. Alshaimaa,72,12,1225,15,1
+Tuesday,11-Jun-24,10:00 - 12:00,1,CSC102,Fundamentals of Programming I,Dr. Alshaimaa,17,12,1117,17,1
+Tuesday,11-Jun-24,10:00 - 12:00,2,CSC206,Software and System Tools,Dr. Mervat,96,12,1218,17,1
+Tuesday,11-Jun-24,10:00 - 12:00,2,CSC206,Software and System Tools,Dr. Mervat,96,12,G2-4011,41,2
+Tuesday,11-Jun-24,10:00 - 12:00,2,CSC206,Software and System Tools,Dr. Mervat,96,12,Hall 8-4238,38,2
+Tuesday,11-Jun-24,10:00 - 12:00,4-CS,CSC401,Compilers and Interpreters,Prof. Khaled,1,12,1310,1,1
+Tuesday,11-Jun-24,10:00 - 12:00,4-CS,CSC402,Compilers and Interpreters,Prof. Khaled,15,12,1310,15,1
+Tuesday,11-Jun-24,10:00 - 12:00,Self-study,CSC410,Software Tools and Systems Programming,Dr. Mervat,4,12,Hall 8-4238,4,2
+Tuesday,11-Jun-24,12:30 - 2:30,4-AI,AIN402,Robotics,Dr. Marian,82,14,G2-4011,41,2
+Tuesday,11-Jun-24,12:30 - 2:30,4-AI,AIN402,Robotics,Dr. Marian,82,14,Hall 8-4238,41,2
+Tuesday,11-Jun-24,12:30 - 2:30,4-CNE,CNE405,Wireless and Mobile Networks,Dr. Tarek,10,14,1146,10,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-CNE,CNE405,Wireless and Mobile Networks,Dr. Tarek,10,14,1146,10,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-CNE,CNE405,Wireless and Mobile Networks,Dr. Tarek,10,14,1146,10,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-CNE,CNE405,Wireless Networks,Dr. Tarek,26,14,1204,26,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-SWE,SWE401,Database II,Dr. Mervat,5,14,1212,5,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-SWE,SWE402,Database II,Dr. Mervat,124,14,1101,15,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-SWE,SWE402,Database II,Dr. Mervat,124,14,1115,14,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-SWE,SWE402,Database II,Dr. Mervat,124,14,1117,15,1
+Tuesday,11-Jun-24,12:30 - 2:30,4-SWE,SWE402,Database II,Dr. Mervat,124,14,1208,40,2
+Tuesday,11-Jun-24,12:30 - 2:30,4-SWE,SWE402,Database II,Dr. Mervat,124,14,1216,40,2
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

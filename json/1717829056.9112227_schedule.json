@@ -1,0 +1,256 @@
+﻿{
+  "10-Jun-24_Monday": {
+    "10:00-12:00": [
+      {
+        "Room(s)": "1101",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1110",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1112",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1114",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 35
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 14
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "MAT102",
+        "Course Name": "Calculus I ",
+        "No. of Students": 20
+      }
+    ],
+    "12:30-2:30": [
+      {
+        "Room(s)": "1101",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 27
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 27
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "Hall 8-4238",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 42
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "10-Jun-24",
+        "Day": "Monday",
+        "Course Code": "CSC309",
+        "Course Name": "Data Science Programming  ",
+        "No. of Students": 42
+      }
+    ]
+  }
+}

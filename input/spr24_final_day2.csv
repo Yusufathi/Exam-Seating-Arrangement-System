@@ -1,0 +1,32 @@
+﻿Day,Date,Time,Level,Course Code,Course Name,Instructor,No. of Students,Required No. of Proctors,Room(s),No. of Students/ Room,No. of proctors / Room
+Saturday,1-Jun-24,10:00 - 12:00,4-AI,AIN405,Deep Learning,Dr. Belal,79,22,1108,39,2
+Saturday,1-Jun-24,10:00 - 12:00,4-AI,AIN405,Deep Learning,Dr. Belal,79,22,1115,14,1
+Saturday,1-Jun-24,10:00 - 12:00,4-AI,AIN405,Deep Learning,Dr. Belal,79,22,1117,14,1
+Saturday,1-Jun-24,10:00 - 12:00,4-AI,AIN405,Deep Learning,Dr. Belal,79,22,1146,12,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1204,28,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1206,28,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1208,40,2
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1212,15,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1215,16,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1216,40,2
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1217,16,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1218,16,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1225,16,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,1310,16,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,3207,16,1
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,G2-4011,41,2
+Saturday,1-Jun-24,10:00 - 12:00,2,CSC205,Analysis and Design of Algorithms,Dr. Waleed,329,22,Hall 8-4238,41,2
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1101,15,1
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1204,25,1
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1206,25,1
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1208,39,2
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1216,39,2
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1217,15,1
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1218,15,1
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,1225,15,1
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,G2-4011,39,2
+Saturday,1-Jun-24,12:30-2:30,3,CSC310,Fault Tolerance,Dr. Belal ,267,14,Hall 8-4238,40,2
+Saturday,1-Jun-24,12:30-2:30,Self-study,SWE301,Database I,Dr. Shady,1,1,1212,8,1
+Saturday,1-Jun-24,12:30-2:30,Self-study,SWE405,Software Quality Assurance,Dr. Reham,2,1,1212,8,1
+Saturday,1-Jun-24,12:30-2:30,Self-study,CSC401,Formal Languages and Automata,Prof. Khaled,1,1,1212,8,1
+Saturday,1-Jun-24,12:30-2:30,Self-study,MAN101,Fundamentals of Management,Dr. Rawhy,4,1,1212,8,1

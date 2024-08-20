@@ -1,0 +1,378 @@
+﻿{
+  "27-Apr-24_Saturday": {
+    "10:00-11:00": [
+      {
+        "Room(s)": "1101",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1108",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 25
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 16
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC204",
+        "Course Name": "Principles of Programming Languages",
+        "No. of Students": 40
+      }
+    ],
+    "11:30-12:30": [
+      {
+        "Room(s)": "1101",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1206",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 21
+      },
+      {
+        "Room(s)": "1146",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1204",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "AIN413",
+        "Course Name": "Machine Vision",
+        "No. of Students": 20
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CSC407",
+        "Course Name": "Perception and computer vision",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE406",
+        "Course Name": "Mobile Computing",
+        "No. of Students": 31
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE409",
+        "Course Name": "Internetworking",
+        "No. of Students": 1
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 37
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 13
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "SWE412",
+        "Course Name": "Software Project Management",
+        "No. of Students": 38
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "SWE408",
+        "Course Name": "Software Project Management",
+        "No. of Students": 1
+      }
+    ],
+    "1:00-2:00": [
+      {
+        "Room(s)": "1101",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1115",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1117",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1208",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1212",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1215",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1216",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 40
+      },
+      {
+        "Room(s)": "1217",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1218",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1225",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "1310",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "3207",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 15
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE310",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 33
+      },
+      {
+        "Room(s)": "G2-4011",
+        "Date": "27-Apr-24",
+        "Day": "Saturday",
+        "Course Code": "CNE404",
+        "Course Name": "Computer Systems Modeling and Analysis",
+        "No. of Students": 5
+      }
+    ]
+  }
+}

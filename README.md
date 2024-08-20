@@ -42,6 +42,8 @@ This project is a Python-based system designed to automate the process of genera
 
 The system expects specific formats for the input CSV files for scheduling. Below is a sample of what the scheduling file should look like:
 
+ps. Make sure to look into the Input folder for more real-life examples.
+
 ### Schedule CSV
 
 | Date       | Day      | Time     | Room(s)   | Course Code | Course Name                   | No. of Students |

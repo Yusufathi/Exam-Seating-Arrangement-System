@@ -1,10 +1,11 @@
+
 # Exam Seating Arrangement System
 
 This project is a Python-based system designed to automate the process of generating seating arrangements for exams based on registration and scheduling data. It creates detailed PDF reports for exam seating and room ranges, ensuring efficient organization and management of exam sessions.
 
 ## Features
 
-- **Automated Data Processing**: 
+- **Automated Data Processing**:
   - Fetch registration data from a remote server.
   - Parse scheduling CSV files.
   - Automatically generate JSON files for both registration and schedule data.
@@ -55,28 +56,35 @@ Ensure that your input CSV files follow this structure closely to ensure proper 
 
 1. **Install Dependencies**:
    Ensure you have all the necessary Python libraries installed. You can install the dependencies using pip:
+
    ```bash
    pip install -r requirements.txt
+   ```
 
-Prepare Input Files:
+2. **Prepare Input Files**:
+   - Place your scheduling CSV file in the `input/` directory.
+   - Ensure that the registration endpoint is correctly configured in `registeration_service.py`.
 
-Place your scheduling CSV file in the input/ directory.
-Ensure that the registration endpoint is correctly configured in registeration_service.py.
-Run the Program:
-Execute the main.py file to generate the seating arrangements and room ranges:
+3. **Run the Program**:
+   Execute the `main.py` file to generate the seating arrangements and room ranges:
 
-bash
-Copy code
-python main.py
-Review Outputs:
+   ```bash
+   python main.py
+   ```
 
-The generated PDFs and any remaining data will be saved in the outputs/ directory.
-If any registrations were not processed due to mismatches, a left.json file will be created in the outputs directory.
-Example Output
-Seating Arrangement PDF: A detailed PDF for each exam room listing students, their IDs, and designated seats.
-Room Ranges PDF: A summary PDF showing the range of student IDs in each room.
-Contributing
+4. **Review Outputs**:
+   - The generated PDFs and any remaining data will be saved in the `outputs/` directory.
+   - If any registrations were not processed due to mismatches, a `left.json` file will be created in the outputs directory.
+
+## Example Output
+
+- **Seating Arrangement PDF**: A detailed PDF for each exam room listing students, their IDs, and designated seats.
+- **Room Ranges PDF**: A summary PDF showing the range of student IDs in each room.
+
+## Contributing
+
 Contributions are welcome! Please create an issue or pull request for any improvements or bug fixes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
